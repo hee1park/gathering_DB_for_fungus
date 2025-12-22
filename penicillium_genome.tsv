@@ -1,0 +1,703 @@
+Assembly Name	Assembly Accession	Assembly Paired Assembly Accession	Organism Name	Organism Infraspecific Names Breed	Organism Infraspecific Names Strain	Organism Infraspecific Names Cultivar	Organism Infraspecific Names Ecotype	Organism Infraspecific Names Isolate	Organism Infraspecific Names Sex	Annotation Name	Assembly Stats Total Sequence Length	Assembly Level	Assembly Release Date	WGS project accession	Assembly Stats Number of Scaffolds
+ASM1676781v1	GCA_016767815.1	GCF_016767815.1	Penicillium digitatum		PdW03					Annotation submitted by Hangzhou Normal University	26336737	Complete Genome	2021-01-28		6
+ASM1676781v1	GCF_016767815.1	GCA_016767815.1	Penicillium digitatum		PdW03					Annotation submitted by Hangzhou Normal University	26336737	Complete Genome	2021-01-28		6
+ASM3963440v1	GCA_039634405.1		Penicillium herquei		HGN12.1C (12C)						34932529	Complete Genome	2024-05-14		8
+Pf_T2	GCA_040250155.1		Penicillium fuscoglaucum					Pf_T2			35121114	Complete Genome	2024-06-19		5
+ASM3598539v1	GCA_035985395.1		Penicillium coffeae					ANU01			30909372	Complete Genome	2024-01-23		7
+ASM3442369v1	GCA_034423695.1		Penicillium polonicum		KACC_93368						33750493	Chromosome	2023-12-17		4
+ASM172317v3	GCA_001723175.3	GCF_001723175.1	Penicillium oxalicum		HP7-1					Annotation submitted by Guangxi University	30795872	Chromosome	2022-04-25	JRVD02	18
+ASM172317v3	GCF_001723175.1	GCA_001723175.3	Penicillium oxalicum		HP7-1					Annotation submitted by Guangxi University	30795872	Chromosome	2022-04-25	JRVD02	18
+ASM5152146v1	GCA_051521465.1		Penicillium paneum		OM1						27132231	Chromosome	2025-07-23	JAZGPW01	5
+Pfluo_KMR99	GCA_964197705.1	GCF_964197705.1	Penicillium psychrofluorescens					KMR99		Annotation submitted by THE UNIVERSITY OF NEW SOUTH WALES	26257727	Chromosome	2025-01-17	CAXMXA01	8
+Pfluo_KMR99	GCF_964197705.1	GCA_964197705.1	Penicillium psychrofluorescens					KMR99		Annotation submitted by THE UNIVERSITY OF NEW SOUTH WALES	26257727	Chromosome	2025-01-17	CAXMXA01	8
+ASM2882815v1	GCA_028828155.1	GCF_028828155.1	Penicillium subrubescens		IBT 31985					Annotation submitted by Aalborg University	39968067	Contig	2023-02-23	JAQKAJ01	14
+ASM2882815v1	GCF_028828155.1	GCA_028828155.1	Penicillium subrubescens		IBT 31985					Annotation submitted by Aalborg University	39968067	Contig	2023-02-23	JAQKAJ01	14
+ASM2756938v1	GCA_027569385.1		Penicillium decumbens		NRRL 741						24142420	Contig	2023-01-04	JAPDEZ01	94
+ASM2882782v1	GCA_028827825.1	GCF_028827825.1	Penicillium malachiteum		IBT 17515					Annotation submitted by Aalborg University	35880773	Contig	2023-02-23	JAQJAO01	6
+ASM2882782v1	GCF_028827825.1	GCA_028827825.1	Penicillium malachiteum		IBT 17515					Annotation submitted by Aalborg University	35880773	Contig	2023-02-23	JAQJAO01	6
+ASM2882825v1	GCA_028828255.1		Penicillium fimorum		IBT 29495					Annotation submitted by Aalborg University	28556969	Contig	2023-02-23	JAPWDS01	7
+ASM2882945v1	GCA_028829455.1	GCF_028829455.1	Penicillium robsamsonii		IBT 29466					Annotation submitted by Aalborg University	29159420	Contig	2023-02-23	JAQJAW01	12
+ASM2882945v1	GCF_028829455.1	GCA_028829455.1	Penicillium robsamsonii		IBT 29466					Annotation submitted by Aalborg University	29159420	Contig	2023-02-23	JAQJAW01	12
+ASM2882844v1	GCA_028828445.1	GCF_028828445.1	Penicillium paradoxum		IBT 22861					Annotation submitted by Aalborg University	28923777	Contig	2023-02-23	JAQJAS01	6
+ASM2882844v1	GCF_028828445.1	GCA_028828445.1	Penicillium paradoxum		IBT 22861					Annotation submitted by Aalborg University	28923777	Contig	2023-02-23	JAQJAS01	6
+ASM2882977v1	GCA_028829775.1	GCF_028829775.1	Penicillium samsonianum		IBT 33392					Annotation submitted by Aalborg University	38201884	Contig	2023-02-23	JAQJZT01	11
+ASM2882977v1	GCF_028829775.1	GCA_028829775.1	Penicillium samsonianum		IBT 33392					Annotation submitted by Aalborg University	38201884	Contig	2023-02-23	JAQJZT01	11
+ASM2882724v1	GCA_028827245.1	GCF_028827245.1	Penicillium angulare		IBT 27051					Annotation submitted by Aalborg University	37782843	Contig	2023-02-23	JAPZBL01	12
+ASM2882724v1	GCF_028827245.1	GCA_028827245.1	Penicillium angulare		IBT 27051					Annotation submitted by Aalborg University	37782843	Contig	2023-02-23	JAPZBL01	12
+ASM2882684v1	GCA_028826845.1	GCF_028826845.1	Penicillium canariense		IBT 26290					Annotation submitted by Aalborg University	31521451	Contig	2023-02-23	JAPQKN01	9
+ASM2882684v1	GCF_028826845.1	GCA_028826845.1	Penicillium canariense		IBT 26290					Annotation submitted by Aalborg University	31521451	Contig	2023-02-23	JAPQKN01	9
+ASM2882764v1	GCA_028827645.1		Penicillium hetheringtonii		IBT 29057					Annotation submitted by Aalborg University	31629319	Contig	2023-02-23	JAQJAC01	10
+ASM2882946v1	GCA_028829465.1	GCF_028829465.1	Penicillium soppii		IBT 18220					Annotation submitted by Aalborg University	32085433	Contig	2023-02-23	JAQKAI01	8
+ASM2882946v1	GCF_028829465.1	GCA_028829465.1	Penicillium soppii		IBT 18220					Annotation submitted by Aalborg University	32085433	Contig	2023-02-23	JAQKAI01	8
+ASM2882769v1	GCA_028827695.1	GCF_028827695.1	Penicillium maclennaniae		IBT 15551					Annotation submitted by Aalborg University	27935234	Contig	2023-02-23	JAQJAJ01	8
+ASM2882769v1	GCF_028827695.1	GCA_028827695.1	Penicillium maclennaniae		IBT 15551					Annotation submitted by Aalborg University	27935234	Contig	2023-02-23	JAQJAJ01	8
+ASM177332v1	GCA_001773325.1	GCF_001773325.1	Penicillium arizonense		CBS 141311					Annotation submitted by Chalmers University of Technology	33729052	Scaffold	2016-10-18	LXJU01	396
+ASM177332v1	GCF_001773325.1	GCA_001773325.1	Penicillium arizonense		CBS 141311					Annotation submitted by Chalmers University of Technology	33729052	Scaffold	2016-10-18	LXJU01	396
+ASM2756967v1	GCA_027569675.1		Penicillium crystallinum		NRRL 5082						27069658	Contig	2023-01-04	JAPDKR01	208
+ASM2882703v1	GCA_028827035.1	GCF_028827035.1	Penicillium chrysogenum		IBT 35668					Annotation submitted by Aalborg University	32379777	Contig	2023-02-23	JAPQKU01	4
+ASM2882703v1	GCF_028827035.1	GCA_028827035.1	Penicillium chrysogenum		IBT 35668					Annotation submitted by Aalborg University	32379777	Contig	2023-02-23	JAPQKU01	4
+ASM76974v1	GCA_000769745.1	GCF_000769745.1	Penicillium expansum		MD-8					Annotation submitted by Center for Genomic Regulation (CRG)	32356048	Contig	2014-10-28	JQFZ01	382
+ASM76974v1	GCF_000769745.1	GCA_000769745.1	Penicillium expansum		MD-8					Annotation submitted by Center for Genomic Regulation (CRG)	32356048	Contig	2014-10-28	JQFZ01	382
+ASM211630v1	GCA_002116305.1		Penicillium italicum		GL-Gan1						31026583	Scaffold	2017-05-01	LWEC01	358
+ASM1553377v1	GCA_015533775.1	GCF_015533775.1	Penicillium roqueforti		LCP96 04111					Annotation submitted by Utrecht University	26941230	Scaffold	2020-11-17	JABCSE01	83
+ASM1553377v1	GCF_015533775.1	GCA_015533775.1	Penicillium roqueforti		LCP96 04111					Annotation submitted by Utrecht University	26941230	Scaffold	2020-11-17	JABCSE01	83
+ASM2882715v1	GCA_028827155.1	GCF_028827155.1	Penicillium citrinum		IBT 23319					Annotation submitted by Aalborg University	31396546	Contig	2023-02-23	JAPQKT01	12
+ASM2882715v1	GCF_028827155.1	GCA_028827155.1	Penicillium citrinum		IBT 23319					Annotation submitted by Aalborg University	31396546	Contig	2023-02-23	JAPQKT01	12
+ASM2756941v1	GCA_027569415.1		Penicillium janthinellum		NRRL 35451						34457699	Contig	2023-01-04	JAPDFA01	311
+ASM2882740v1	GCA_028827405.1	GCF_028827405.1	Penicillium crustosum		IBT 35664					Annotation submitted by Aalborg University	32953279	Contig	2023-02-23	JAPZBV01	11
+ASM2882740v1	GCF_028827405.1	GCA_028827405.1	Penicillium crustosum		IBT 35664					Annotation submitted by Aalborg University	32953279	Contig	2023-02-23	JAPZBV01	11
+wengan_M_CN111	GCA_911649655.1		Penicillium sclerotiorum								34772153	Contig	2021-09-14	CAJVRJ01	10
+ASM156193v1	GCA_001561935.1	GCF_001561935.1	Penicillium griseofulvum		PG3					Annotation submitted by University of Turin	29140916	Contig	2016-02-16	LHQR01	92
+ASM156193v1	GCF_001561935.1	GCA_001561935.1	Penicillium griseofulvum		PG3					Annotation submitted by University of Turin	29140916	Contig	2016-02-16	LHQR01	92
+Pbras_Allpaths-LG	GCA_001048715.1		Penicillium brasilianum							Annotation submitted by HKI JENA	35888622	Scaffold	2015-07-01	CDHK01	87
+ASM2882802v1	GCA_028828025.1	GCF_028828025.1	Penicillium rubens		IBT 27055					Annotation submitted by Aalborg University	30336503	Contig	2023-02-23	JAQKAF01	4
+ASM2882802v1	GCF_028828025.1	GCA_028828025.1	Penicillium rubens		IBT 27055					Annotation submitted by Aalborg University	30336503	Contig	2023-02-23	JAQKAF01	4
+ASM2882755v1	GCA_028827555.1	GCF_028827555.1	Penicillium brevicompactum		IBT 35665					Annotation submitted by Aalborg University	34726155	Contig	2023-02-23	JAPZBP01	9
+ASM2882755v1	GCF_028827555.1	GCA_028827555.1	Penicillium brevicompactum		IBT 35665					Annotation submitted by Aalborg University	34726155	Contig	2023-02-23	JAPZBP01	9
+ASM2882975v1	GCA_028829755.1	GCF_028829755.1	Penicillium solitum		IBT 25940					Annotation submitted by Aalborg University	33256298	Contig	2023-02-23	JAQKAH01	8
+ASM2882975v1	GCF_028829755.1	GCA_028829755.1	Penicillium solitum		IBT 25940					Annotation submitted by Aalborg University	33256298	Contig	2023-02-23	JAQKAH01	8
+ASM2882865v1	GCA_028828655.1	GCF_028828655.1	Penicillium verrucosum		IBT 35672					Annotation submitted by Aalborg University	32831822	Contig	2023-02-23	JAQKAO01	8
+ASM2882865v1	GCF_028828655.1	GCA_028828655.1	Penicillium verrucosum		IBT 35672					Annotation submitted by Aalborg University	32831822	Contig	2023-02-23	JAQKAO01	8
+ASM2882887v1	GCA_028828875.1		Penicillium capsulatum		IBT 29712					Annotation submitted by Aalborg University	27651227	Contig	2023-02-23	JAQJZR01	9
+ASM5232351v1	GCA_052323515.1		Penicillium biforme		LCP05531						38044968	Contig	2025-08-28	JBNLVZ01	8
+PcamFM013r2_polished	GCA_014839975.1		Penicillium camemberti		FM013=LCP06093						35346490	Contig	2020-09-30	JACXYV01	56
+Ppaxilli_v.1.0	GCA_000347475.1		Penicillium paxilli ATCC 26601		ATCC 26601						34802463	Scaffold	2013-03-19	AOTG01	420
+ASM1997785v1	GCA_019977855.1		Penicillium aurantiogriseum		IBT 35659						32600911	Contig	2021-09-14	JAFCIW01	4
+ASM2612273v1	GCA_026122735.1		Penicillium bialowiezense		A30						31166888	Contig	2022-11-10	JAKZFB01	43
+ASM2882876v1	GCA_028828765.1	GCF_028828765.1	Penicillium canescens		IBT 15451					Annotation submitted by Aalborg University	46284494	Contig	2023-02-23	JAQJZN01	15
+ASM2882876v1	GCF_028828765.1	GCA_028828765.1	Penicillium canescens		IBT 15451					Annotation submitted by Aalborg University	46284494	Contig	2023-02-23	JAQJZN01	15
+ASM2470658v1	GCA_024706585.1		Penicillium simplicissimum		A4						38963051	Contig	2022-08-17	JAMZTW01	196
+ASM3076282v1	GCA_030762825.1		Penicillium turbatum		BLH34						28026804	Contig	2023-08-16	JAUJYX01	20
+Pols_LCP05357	GCA_911174995.1		Penicillium olsonii							Annotation submitted by University Paris-Sud	29373279	Scaffold	2022-09-22	CAJVNO01	95
+UFV_RLS11_1.0	GCA_022985105.1		Penicillium ochrochloron		RLS11						38188369	Scaffold	2022-04-14	JAAVMA01	724
+ASM5357280v1	GCA_053572805.1		Penicillium commune		MS0214						35973054	Contig	2025-11-21	JBNLIS01	171
+ASM238285v1	GCA_002382855.1		Penicillium occitanis (nom. inval.)		CL100					Annotation submitted by Center for Genomic Regulation (CRG)	36251488	Contig	2017-09-27	NPFK01	1591
+Pnal_ESE00252	GCA_911456355.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	34560068	Contig	2022-09-22	CAJVRB01	41
+ASM2882828v1	GCA_028828285.1		Penicillium majusculum		IBT 35410					Annotation submitted by Aalborg University	33834515	Contig	2023-02-23	JAQJAL01	6
+ASM2882714v1	GCA_028827145.1	GCF_028827145.1	Penicillium concentricum		IBT 3081					Annotation submitted by Aalborg University	29963931	Contig	2023-02-23	JAPZBT01	6
+ASM2882714v1	GCF_028827145.1	GCA_028827145.1	Penicillium concentricum		IBT 3081					Annotation submitted by Aalborg University	29963931	Contig	2023-02-23	JAPZBT01	6
+ASM2882818v1	GCA_028828185.1		Penicillium viridicatum		IBT 34249					Annotation submitted by Aalborg University	32834375	Contig	2023-02-23	JAQKAP01	6
+ASM2882958v1	GCA_028829585.1	GCF_028829585.1	Penicillium vulpinum		IBT 29486					Annotation submitted by Aalborg University	31511571	Contig	2023-02-23	JAQKAQ01	6
+ASM2882958v1	GCF_028829585.1	GCA_028829585.1	Penicillium vulpinum		IBT 29486					Annotation submitted by Aalborg University	31511571	Contig	2023-02-23	JAQKAQ01	6
+ASM2882738v1	GCA_028827385.1		Penicillium freii		IBT 34325					Annotation submitted by Aalborg University	35356366	Contig	2023-02-23	JAQIZX01	6
+ASM2882983v1	GCA_028829835.1	GCF_028829835.1	Penicillium mononematosum		IBT 11891					Annotation submitted by Aalborg University	30158902	Contig	2023-02-23	JAQJZX01	4
+ASM2882983v1	GCF_028829835.1	GCA_028829835.1	Penicillium mononematosum		IBT 11891					Annotation submitted by Aalborg University	30158902	Contig	2023-02-23	JAQJZX01	4
+ASM2882846v1	GCA_028828465.1	GCF_028828465.1	Penicillium psychrosexuale		IBT 29551					Annotation submitted by Aalborg University	27827857	Contig	2023-02-23	JAQJAT01	8
+ASM2882846v1	GCF_028828465.1	GCA_028828465.1	Penicillium psychrosexuale		IBT 29551					Annotation submitted by Aalborg University	27827857	Contig	2023-02-23	JAQJAT01	8
+ASM2882737v1	GCA_028827375.1		Penicillium desertorum		IBT 17660					Annotation submitted by Aalborg University	33986870	Contig	2023-02-23	JAPWDO01	14
+ASM2882824v1	GCA_028828245.1		Penicillium lividum		IBT 13676					Annotation submitted by Aalborg University	34532832	Contig	2023-02-23	JAQJAG01	11
+ASM5194442v1	GCA_051944425.1		Penicillium adametzioides		FBCC-F1417						40469361	Contig	2025-08-12	JBEBMI01	12
+ASM2882739v1	GCA_028827395.1	GCF_028827395.1	Penicillium hordei		IBT 12815					Annotation submitted by Aalborg University	33792161	Contig	2023-02-23	JAQJAE01	6
+ASM2882739v1	GCF_028827395.1	GCA_028827395.1	Penicillium hordei		IBT 12815					Annotation submitted by Aalborg University	33792161	Contig	2023-02-23	JAQJAE01	6
+ASM2882677v1	GCA_028826775.1	GCF_028826775.1	Penicillium argentinense		IBT 30761					Annotation submitted by Aalborg University	33838379	Contig	2023-02-23	JAPQKI01	11
+ASM2882677v1	GCF_028826775.1	GCA_028826775.1	Penicillium argentinense		IBT 30761					Annotation submitted by Aalborg University	33838379	Contig	2023-02-23	JAPQKI01	11
+ASM2882855v1	GCA_028828555.1	GCF_028828555.1	Penicillium taxi		IBT 34144					Annotation submitted by Aalborg University	27925195	Contig	2023-02-23	JAQKAL01	6
+ASM2882855v1	GCF_028828555.1	GCA_028828555.1	Penicillium taxi		IBT 34144					Annotation submitted by Aalborg University	27925195	Contig	2023-02-23	JAQKAL01	6
+ASM2882804v1	GCA_028828045.1	GCF_028828045.1	Penicillium odoratum		IBT 22623					Annotation submitted by Aalborg University	32405987	Contig	2023-02-23	JAQJAR01	7
+ASM2882804v1	GCF_028828045.1	GCA_028828045.1	Penicillium odoratum		IBT 22623					Annotation submitted by Aalborg University	32405987	Contig	2023-02-23	JAQJAR01	7
+ASM2882976v1	GCA_028829765.1	GCF_028829765.1	Penicillium waksmanii		IBT 27052					Annotation submitted by Aalborg University	37575496	Contig	2023-02-23	JAQKAR01	10
+ASM2882976v1	GCF_028829765.1	GCA_028829765.1	Penicillium waksmanii		IBT 27052					Annotation submitted by Aalborg University	37575496	Contig	2023-02-23	JAQKAR01	10
+ASM2882808v1	GCA_028828085.1	GCF_028828085.1	Penicillium nucicola		IBT 29836					Annotation submitted by Aalborg University	31087567	Contig	2023-02-23	JAQJAQ01	17
+ASM2882808v1	GCF_028828085.1	GCA_028828085.1	Penicillium nucicola		IBT 29836					Annotation submitted by Aalborg University	31087567	Contig	2023-02-23	JAQJAQ01	17
+ASM2882752v1	GCA_028827525.1	GCF_028827525.1	Penicillium daleae		IBT 16125					Annotation submitted by Aalborg University	39657045	Contig	2023-02-23	JAPVEA01	10
+ASM2882752v1	GCF_028827525.1	GCA_028827525.1	Penicillium daleae		IBT 16125					Annotation submitted by Aalborg University	39657045	Contig	2023-02-23	JAPVEA01	10
+ASM2882789v1	GCA_028827895.1	GCF_028827895.1	Penicillium longicatenatum		IBT 33135					Annotation submitted by Aalborg University	32457776	Contig	2023-02-23	JAQJAH01	7
+ASM2882789v1	GCF_028827895.1	GCA_028827895.1	Penicillium longicatenatum		IBT 33135					Annotation submitted by Aalborg University	32457776	Contig	2023-02-23	JAQJAH01	7
+ASM2882827v1	GCA_028828275.1		Penicillium frequentans		IBT 35677					Annotation submitted by Aalborg University	38045409	Contig	2023-02-23	JAQIZY01	15
+ASM2882702v1	GCA_028827025.1	GCF_028827025.1	Penicillium cataractarum		IBT 29864					Annotation submitted by Aalborg University	37446941	Contig	2023-02-23	JAPZBS01	11
+ASM2882702v1	GCF_028827025.1	GCA_028827025.1	Penicillium cataractarum		IBT 29864					Annotation submitted by Aalborg University	37446941	Contig	2023-02-23	JAPZBS01	11
+ASM2882801v1	GCA_028828015.1	GCF_028828015.1	Penicillium pulvis		IBT 33274					Annotation submitted by Aalborg University	32647626	Contig	2023-02-23	JAQJAU01	8
+ASM2882801v1	GCF_028828015.1	GCA_028828015.1	Penicillium pulvis		IBT 33274					Annotation submitted by Aalborg University	32647626	Contig	2023-02-23	JAQJAU01	8
+ASM5061344v1	GCA_050613445.1		Penicillium koreense		GX2						35464682	Contig	2025-05-29	JBNBZU01	13
+ASM2882716v1	GCA_028827165.1	GCF_028827165.1	Penicillium cosmopolitanum		IBT 29677					Annotation submitted by Aalborg University	40034523	Contig	2023-02-23	JAPZBU01	13
+ASM2882716v1	GCF_028827165.1	GCA_028827165.1	Penicillium cosmopolitanum		IBT 29677					Annotation submitted by Aalborg University	40034523	Contig	2023-02-23	JAPZBU01	13
+ASM2882967v1	GCA_028829675.1		Penicillium tannophilum		IBT 21756					Annotation submitted by Aalborg University	32107691	Contig	2023-02-23	JAQKAK01	12
+ASM2882685v1	GCA_028826855.1	GCF_028826855.1	Penicillium coprophilum		IBT 35676					Annotation submitted by Aalborg University	29014640	Contig	2023-02-23	JAPQKM01	7
+ASM2882685v1	GCF_028826855.1	GCA_028826855.1	Penicillium coprophilum		IBT 35676					Annotation submitted by Aalborg University	29014640	Contig	2023-02-23	JAPQKM01	7
+ASM2882800v1	GCA_028828005.1	GCF_028828005.1	Penicillium manginii		IBT 31320					Annotation submitted by Aalborg University	38623079	Contig	2023-02-23	JAQJAP01	14
+ASM2882800v1	GCF_028828005.1	GCA_028828005.1	Penicillium manginii		IBT 31320					Annotation submitted by Aalborg University	38623079	Contig	2023-02-23	JAQJAP01	14
+ASM2897408v1	GCA_028974085.1	GCF_028974085.1	Penicillium chermesinum		IBT 19713					Annotation submitted by Aalborg University	27581382	Contig	2023-02-23	JAPQKS01	10
+ASM2897408v1	GCF_028974085.1	GCA_028974085.1	Penicillium chermesinum		IBT 19713					Annotation submitted by Aalborg University	27581382	Contig	2023-02-23	JAPQKS01	10
+ASM5120039v1	GCA_051200395.1		Penicillium mexicanum		MUM 23.42						29591196	Contig	2025-07-03	JBHZOJ01	21
+ASM2897406v1	GCA_028974065.1	GCF_028974065.1	Penicillium cinerascens		IBT 15544					Annotation submitted by Aalborg University	29467041	Contig	2023-02-23	JAPQKR01	16
+ASM2897406v1	GCF_028974065.1	GCA_028974065.1	Penicillium cinerascens		IBT 15544					Annotation submitted by Aalborg University	29467041	Contig	2023-02-23	JAPQKR01	16
+ASM4033314v1	GCA_040333145.1		Penicillium brefeldianum		F032						33894595	Contig	2024-06-26	JBEBNH01	8
+ASM3003563v1	GCA_030035635.1		Penicillium parvum		4-14b						25766470	Contig	2023-05-18	JAPJNL01	8
+ASM2882773v1	GCA_028827735.1	GCF_028827735.1	Penicillium macrosclerotiorum		IBT 26536					Annotation submitted by Aalborg University	33645934	Contig	2023-02-23	JAQJAK01	12
+ASM2882773v1	GCF_028827735.1	GCA_028827735.1	Penicillium macrosclerotiorum		IBT 26536					Annotation submitted by Aalborg University	33645934	Contig	2023-02-23	JAQJAK01	12
+ASM2882726v1	GCA_028827265.1	GCF_028827265.1	Penicillium atrosanguineum		IBT 20685					Annotation submitted by Aalborg University	28612168	Contig	2023-02-23	JAPZBN01	8
+ASM2882726v1	GCF_028827265.1	GCA_028827265.1	Penicillium atrosanguineum		IBT 20685					Annotation submitted by Aalborg University	28612168	Contig	2023-02-23	JAPZBN01	8
+ASM2897420v1	GCA_028974205.1	GCF_028974205.1	Penicillium antarcticum		IBT 31339					Annotation submitted by Aalborg University	30836278	Contig	2023-02-23	JAPZBM01	11
+ASM2897420v1	GCF_028974205.1	GCA_028974205.1	Penicillium antarcticum		IBT 31339					Annotation submitted by Aalborg University	30836278	Contig	2023-02-23	JAPZBM01	11
+ASM2882766v1	GCA_028827665.1	GCF_028827665.1	Penicillium hispanicum		IBT 35686					Annotation submitted by Aalborg University	27868179	Contig	2023-02-23	JAQJAD01	9
+ASM2882766v1	GCF_028827665.1	GCA_028827665.1	Penicillium hispanicum		IBT 35686					Annotation submitted by Aalborg University	27868179	Contig	2023-02-23	JAQJAD01	9
+ASM2882767v1	GCA_028827675.1	GCF_028827675.1	Penicillium lagena		IBT 129212					Annotation submitted by Aalborg University	27859125	Contig	2023-02-23	JAQJAF01	9
+ASM2882767v1	GCF_028827675.1	GCA_028827675.1	Penicillium lagena		IBT 129212					Annotation submitted by Aalborg University	27859125	Contig	2023-02-23	JAQJAF01	9
+ASM2882819v1	GCA_028828195.1	GCF_028828195.1	Penicillium verhagenii		IBT 33310					Annotation submitted by Aalborg University	32288599	Contig	2023-02-23	JAQKAM01	12
+ASM2882819v1	GCF_028828195.1	GCA_028828195.1	Penicillium verhagenii		IBT 33310					Annotation submitted by Aalborg University	32288599	Contig	2023-02-23	JAQKAM01	12
+ASM2882849v1	GCA_028828495.1	GCF_028828495.1	Penicillium riverlandense		IBT 135883					Annotation submitted by Aalborg University	27919989	Contig	2023-02-23	JAQJAV01	8
+ASM2882849v1	GCF_028828495.1	GCA_028828495.1	Penicillium riverlandense		IBT 135883					Annotation submitted by Aalborg University	27919989	Contig	2023-02-23	JAQJAV01	8
+ASM2882754v1	GCA_028827545.1	GCF_028827545.1	Penicillium diatomitis		IBT 30728					Annotation submitted by Aalborg University	33965862	Contig	2023-02-23	JAPWDQ01	19
+ASM2882754v1	GCF_028827545.1	GCA_028827545.1	Penicillium diatomitis		IBT 30728					Annotation submitted by Aalborg University	33965862	Contig	2023-02-23	JAPWDQ01	19
+ASM2882691v1	GCA_028826915.1	GCF_028826915.1	Penicillium bovifimosum		IBT 22155					Annotation submitted by Aalborg University	27188871	Contig	2023-02-23	JAPQKL01	9
+ASM2882691v1	GCF_028826915.1	GCA_028826915.1	Penicillium bovifimosum		IBT 22155					Annotation submitted by Aalborg University	27188871	Contig	2023-02-23	JAPQKL01	9
+ASM2882696v1	GCA_028826965.1	GCF_028826965.1	Penicillium alfredii		IBT 34128					Annotation submitted by Aalborg University	27430394	Contig	2023-02-23	JAPMSZ01	11
+ASM2882696v1	GCF_028826965.1	GCA_028826965.1	Penicillium alfredii		IBT 34128					Annotation submitted by Aalborg University	27430394	Contig	2023-02-23	JAPMSZ01	11
+ASM1841014v1	GCA_018410145.1		Penicillium corylophilum		F5_1S_1A_F						28229796	Scaffold	2021-05-19	JAGUQL01	53
+CTC_F1880_1.0	GCA_011392555.1		Penicillium rolfsii		F1880					Annotation submitted by Embrapa Agroenergia	32363941	Scaffold	2020-03-17	QMFL01	27
+ASM2008669v1	GCA_020086695.1		Penicillium sumatraense		AQ67100						36393065	Scaffold	2021-09-21	JAGIKU01	4510
+ASM4033331v2	GCA_040333315.2		Penicillium raperi		F027						35597123	Scaffold	2024-11-01	JBEBNJ02	193
+ASM3704098v1	GCA_037040985.1		Penicillium glabrum		DX136-07W						34082500	Scaffold	2024-03-06	JAXQHR01	436
+ASM1558578v1	GCA_015585785.1		Penicillium dipodomyicola		IIF7SW-F2						32111153	Scaffold	2020-11-18	JACSOR01	431
+ASM2756958v1	GCA_027569585.1		Penicillium silybi		G85						26976508	Contig	2023-01-04	JAPDFI01	138
+ASM1558603v1	GCA_015586035.1		Penicillium griseoroseum		IF3SW-F1						32029139	Scaffold	2020-11-18	JACSPC01	559
+ASM3704388v1	GCA_037043885.1		Penicillium goetzii		LH_A469						35921107	Contig	2024-03-06	JAWLST01	267
+Pglandicola_3C_v2	GCA_902713505.1		Penicillium glandicola					3C		Annotation submitted by UNIVERSITY OF TURIN	28393573	Contig	2025-02-20	CACTIM02	232
+Psal_DTO309-F9	GCA_911197225.1		Penicillium salamii							Annotation submitted by University Paris-Sud	31295745	Scaffold	2022-09-22	CAJVOY01	164
+ASM207236v1	GCA_002072365.1		Penicillium flavigenum		IBT 14082					Annotation submitted by Chalmers University of Technology	32903267	Scaffold	2017-03-24	MLQL01	260
+ASM3704400v1	GCA_037044005.1		Penicillium fructuariae-cellae		LH_A412						34656616	Contig	2024-03-06	JAWLSY01	462
+PS_2648	GCA_018340795.1		Penicillium steckii		P2648						33404627	Scaffold	2021-05-11	JADDUG01	952
+ASM1919035v1	GCA_019190355.1		Penicillium palitans		F6_7S_1C_F						36471119	Scaffold	2021-07-09	JAHAQQ01	794
+Ppancosmium_FP1_v2	GCA_902713525.1		Penicillium pancosmium					FP10		Annotation submitted by UNIVERSITY OF TURIN	36229496	Scaffold	2025-02-20	CACTIP02	652
+UCS_PECM_1.0	GCA_014839625.1		Penicillium ucsense		S1M29					Annotation submitted by Universidade de Caxias do Sul	30406053	Scaffold	2020-10-02	WIWV01	673
+ASM2281316v1	GCA_022813165.1		Penicillium caseifulvum		FKI-L3-CM-P1						35881231	Scaffold	2022-04-04	JAKLNB01	824
+ASM2558681v1	GCA_025586815.1		Penicillium glycyrrhizacola		CGMCC 3.15273						30945552	Scaffold	2022-10-05	JANFQT01	629
+Pdiscolor_3B6_v2	GCA_902713485.1		Penicillium discolor					3B6		Annotation submitted by UNIVERSITY OF TURIN	33414722	Scaffold	2025-02-20	CACTIL02	1169
+PnBFE487-1.0	GCA_000733025.2		Penicillium nordicum		UASWS BFE487						30392820	Contig	2015-07-10	JNNR01	914
+Penicillium_sclerotigenum_IBT15061	GCA_928213465.1		Penicillium sclerotigenum								29850579	Contig	2022-02-09	CAKMRK01	1519
+Pegy_LCP06446	GCA_911456345.1		Penicillium egyptiacum							Annotation submitted by University Paris-Sud	32674410	Scaffold	2022-09-22	CAJVRC01	909
+ASM3014218v1	GCA_030142185.1		Penicillium thymicola		DAOM 180753					Annotation submitted by Agriculture and Agri-Food Canada	33877935	Scaffold	2023-05-31	LACB01	2167
+PCARLCP05634_20131217	GCA_000577495.1		Penicillium carneum LCP05634		LCP05634						25936550	Scaffold	2014-02-20	CBXS01	2090
+ASM2113355v1	GCA_021133555.1		Penicillium oxalicum		CCTCC M 20211309						30536533	Complete Genome	2021-12-09		9
+ASM2257049v1	GCA_022570495.1		Penicillium oxalicum		I1R1						30669623	Complete Genome	2022-03-15		8
+ASM4423186v1	GCA_044231865.1		Penicillium chrysogenum		404						32569297	Complete Genome	2024-11-04	JBIEAS01	4
+ASM3051855v1	GCA_030518555.1		Penicillium roqueforti		LCP06133						28754521	Complete Genome	2023-07-23		4
+ASM4423184v1	GCA_044231845.1		Penicillium chrysogenum		413						32630660	Chromosome	2024-11-04	JBIEAR01	4
+ASM71027v1	GCA_000710275.1		Penicillium chrysogenum		P2niaD18					Annotation submitted by Ruhr-Univeristaet Bochum	32498524	Chromosome	2014-06-23	JMSF01	4
+ASM1346617v1	GCA_013466175.1		Penicillium polonicum		F7						32628152	Chromosome	2020-07-23	WBOJ01	8
+ASM193991v1	GCA_001939915.1		Penicillium roqueforti		CECT 2905						26071999	Contig	2017-01-09	MSQC01	1168
+ASM2028416v1	GCA_020284165.1		Penicillium citrinum		NRRL 1841						31183193	Scaffold	2021-10-05	JAILXF01	109
+ASM2756984v1	GCA_027569845.1		Penicillium polonicum		NRRL 995						32374864	Contig	2023-01-04	JAPDKX01	125
+ASM2756943v1	GCA_027569435.1		Penicillium sclerotiorum		NRRL 2074						35625079	Contig	2023-01-04	JAPDFB01	131
+ASM190812v1	GCA_001908125.1		Penicillium subrubescens		CBS 132785		Helsinki			Annotation submitted by CBS-KNAW Fungal Biodiversity Centre Institute of the Royal Netherlands Academy of Arts and Science	39803164	Scaffold	2016-12-19	MNBE01	776
+ASM2756936v1	GCA_027569365.1		Penicillium coprophilum		NRRL 13627						28996901	Contig	2023-01-04	JAPDEY01	102
+UCS_PECH_1.0	GCA_014839855.1		Penicillium ucsense		2HH					Annotation submitted by Universidade de Caxias do Sul	30427638	Scaffold	2020-10-02	WIWU01	697
+ASM3037837v1	GCA_030378375.1		Penicillium oxalicum		5-18						30780966	Contig	2023-06-30	JASKYK01	9
+SGAir0226	GCA_005546515.1		Penicillium oxalicum		SGAir0226						30680516	Contig	2019-05-21	SZWD01	20
+ASM5194291v1	GCA_051942915.1		Penicillium oxalicum		F2DHU						28576124	Scaffold	2025-08-12	JBMALU01	194
+ASM2362485v1	GCA_023624855.1		Penicillium oxalicum		M7025A						30222794	Scaffold	2022-06-01	JAMABN01	176
+ASM415342v1	GCA_004153425.1		Penicillium oxalicum		SYJ-1						29842738	Scaffold	2019-02-11	SGAW01	87
+ASM452193v1	GCA_004521935.1		Penicillium oxalicum		SYJ-1						29842738	Scaffold	2019-03-29	SDBR01	87
+ASM2362483v1	GCA_023624835.1		Penicillium oxalicum		PM4501B						29833000	Scaffold	2022-06-01	JAMABO01	215
+ASM3704387v1	GCA_037043875.1		Penicillium oxalicum		LH_A471						31404267	Contig	2024-03-06	JAWLSS01	715
+pde_v1.0	GCA_000346795.1		Penicillium oxalicum 114-2		114-2					Annotation submitted by State Key Laboratory of Microbial Technology, Shandong University	30177368	Scaffold	2013-03-19	AGIH01	9
+pdt_v1.0	GCA_000383025.1		Penicillium oxalicum JU-A10-T		JU-A10-T						30658924	Scaffold	2013-04-26	AGII01	23
+Pexp1.0	GCA_002072455.1		Penicillium oxalicum YT02		YT02						31251972	Scaffold	2017-03-24	JARG01	52
+ASM2882694v1	GCA_028826945.1		Penicillium chrysogenum		IBT 19737					Annotation submitted by Aalborg University	35181384	Contig	2023-02-23	JAPVED01	15
+ASM2882701v1	GCA_028827015.1		Penicillium chrysogenum		IBT 3361					Annotation submitted by Aalborg University	33906189	Contig	2023-02-23	JAPVEB01	11
+ASM2882895v1	GCA_028828955.1		Penicillium chrysogenum		IBT 17219					Annotation submitted by Aalborg University	33624001	Contig	2023-02-23	JAQJZU01	11
+ASM208037v1	GCA_002080375.1		Penicillium chrysogenum					HKF42			31410885	Scaffold	2017-04-06	MWKT01	143
+ASM1558629v1	GCA_015586295.1		Penicillium chrysogenum		F3_2F5_F						32607577	Scaffold	2020-11-18	JADBGZ01	486
+ASM1558605v1	GCA_015586055.1		Penicillium chrysogenum		IF2SW-F5						31562351	Scaffold	2020-11-18	JACSPD01	445
+ASM1558639v1	GCA_015586395.1		Penicillium chrysogenum		IF4SG-B1						33345064	Scaffold	2020-11-18	JADBGU01	651
+ASM2362727v1	GCA_023627275.1		Penicillium chrysogenum		R3406						29979206	Scaffold	2022-06-01	JAMAFG01	101
+ASM1558642v1	GCA_015586425.1		Penicillium chrysogenum		IF1SG-B2						33342700	Scaffold	2020-11-18	JADBGS01	676
+ASM1558595v1	GCA_015585955.1		Penicillium chrysogenum		IF7SW-F1						31555041	Scaffold	2020-11-18	JACSOZ01	485
+ASM1558573v1	GCA_015585735.1		Penicillium chrysogenum		IIF8SW-F4						31572930	Scaffold	2020-11-18	JACSON01	434
+ASM1558596v1	GCA_015585965.1		Penicillium chrysogenum		IF4SW-F1						31563405	Scaffold	2020-11-18	JACSPA01	481
+ASM2362413v1	GCA_023624135.1		Penicillium chrysogenum		Y40-02						29964615	Scaffold	2022-06-01	JAMADW01	111
+ASM1558636v1	GCA_015586365.1		Penicillium chrysogenum		IIF2*SW-F2						32073134	Scaffold	2020-11-18	JADBGW01	460
+ASM2362431v1	GCA_023624315.1		Penicillium chrysogenum		M2201						28880821	Scaffold	2022-06-01	JAMACP01	110
+ASM2362701v1	GCA_023627015.1		Penicillium chrysogenum		PDH20-03						30792160	Scaffold	2022-06-01	JAMAES01	219
+ASM1558641v1	GCA_015586415.1		Penicillium chrysogenum		IF2SG-B2						33347836	Scaffold	2020-11-18	JADBGT01	648
+ASM2576814v1	GCA_025768145.1		Penicillium chrysogenum		Y3303						30485798	Scaffold	2022-10-20	JAMFOS01	184
+ASM1558587v1	GCA_015585875.1		Penicillium chrysogenum		IIF3SW-F2						34175250	Scaffold	2020-11-18	JACSOU01	1276
+ASM1558630v1	GCA_015586305.1		Penicillium chrysogenum		F3_2F4_F						32430262	Scaffold	2020-11-18	JADBGY01	568
+ASM2362699v1	GCA_023626995.1		Penicillium chrysogenum		PDH20-04						30826169	Scaffold	2022-06-01	JAMAER01	222
+ASM2362681v1	GCA_023626815.1		Penicillium chrysogenum		M20-01						30792045	Scaffold	2022-06-01	JAMAEH01	218
+ASM1558613v1	GCA_015586135.1		Penicillium chrysogenum		IF1SW-F3						32852608	Scaffold	2020-11-18	JACSPG01	764
+ASM2362445v1	GCA_023624455.1		Penicillium chrysogenum		P30-11						31825940	Scaffold	2022-06-01	JAMACI01	207
+ASM2362711v1	GCA_023627115.1		Penicillium chrysogenum		S40-01						29978609	Scaffold	2022-06-01	JAMAEX01	103
+ASM2756934v1	GCA_027569345.1		Penicillium chrysogenum		NRRL 792						33718706	Contig	2023-01-04	JAPDEX01	565
+ASM2362733v1	GCA_023627335.1		Penicillium chrysogenum		S20-02						30793743	Scaffold	2022-06-01	JAMAFI01	240
+ASM1558607v1	GCA_015586075.1		Penicillium chrysogenum		IF2SW-F4						34169410	Scaffold	2020-11-18	JACSPE01	1277
+ASM2362667v1	GCA_023626675.1		Penicillium chrysogenum		PB3103						30390327	Scaffold	2022-06-01	JAMAEA01	184
+ASM2362418v1	GCA_023624185.1		Penicillium chrysogenum		R3104						30487485	Scaffold	2022-06-01	JAMACT01	187
+ASM2576817v1	GCA_025768175.1		Penicillium chrysogenum		M2203						28893139	Scaffold	2022-10-20	JAMFOR01	93
+ASM2362713v1	GCA_023627135.1		Penicillium chrysogenum		R20-05						30490941	Scaffold	2022-06-01	JAMAEY01	196
+ASM2362669v1	GCA_023626695.1		Penicillium chrysogenum		PH4103						29835738	Scaffold	2022-06-01	JAMAED01	101
+ASM2362663v1	GCA_023626635.1		Penicillium chrysogenum		B20-02						30489685	Scaffold	2022-06-01	JAMAEB01	207
+ASM2362427v1	GCA_023624275.1		Penicillium chrysogenum		R4101						29891153	Scaffold	2022-06-01	JAMACR01	114
+ASM2362433v1	GCA_023624335.1		Penicillium chrysogenum		R4403						29877098	Scaffold	2022-06-01	JAMACN01	135
+ASM2362435v1	GCA_023624355.1		Penicillium chrysogenum		PF3401						30356963	Scaffold	2022-06-01	JAMACM01	320
+ASM2362707v1	GCA_023627075.1		Penicillium chrysogenum		Y1301						32220833	Scaffold	2022-06-01	JAMAEW01	240
+ASM2362659v1	GCA_023626595.1		Penicillium chrysogenum		PYS3203						29968009	Scaffold	2022-06-01	JAMADY01	135
+ASM2362679v1	GCA_023626795.1		Penicillium chrysogenum		PF2508S						29845130	Scaffold	2022-06-01	JAMAEJ01	151
+ASM2362683v1	GCA_023626835.1		Penicillium chrysogenum		R20-04						30491701	Scaffold	2022-06-01	JAMAEK01	192
+ASM2576847v1	GCA_025768475.1		Penicillium chrysogenum		PB20-04						30516851	Scaffold	2022-10-20	JAMFOQ01	412
+ASM2362689v1	GCA_023626895.1		Penicillium chrysogenum		S2404						29703629	Scaffold	2022-06-01	JAMAEM01	166
+ASM2362723v1	GCA_023627235.1		Penicillium chrysogenum		X20-07						30514621	Scaffold	2022-06-01	JAMAFE01	185
+ASM2362441v1	GCA_023624415.1		Penicillium chrysogenum		PL40-01						29943360	Scaffold	2022-06-01	JAMACJ01	167
+ASM2362671v1	GCA_023626715.1		Penicillium chrysogenum		PB20-03						30473580	Scaffold	2022-06-01	JAMAEC01	217
+ASM2362703v1	GCA_023627035.1		Penicillium chrysogenum		M30-01						30463968	Scaffold	2022-06-01	JAMAET01	202
+ASM2362697v1	GCA_023626975.1		Penicillium chrysogenum		2NP912A						31538282	Scaffold	2022-06-01	JAMAEP01	612
+ASM2362439v1	GCA_023624395.1		Penicillium chrysogenum		R20-08						30500710	Scaffold	2022-06-01	JAMACK01	180
+ASM1558631v1	GCA_015586315.1		Penicillium chrysogenum		F3_2F3_F						31592617	Scaffold	2020-11-18	JADBGX01	353
+ASM2362425v1	GCA_023624255.1		Penicillium chrysogenum		PM3404						29986699	Scaffold	2022-06-01	JAMACQ01	112
+ASM1558601v1	GCA_015586015.1		Penicillium chrysogenum		IF3SW-F3						32771709	Scaffold	2020-11-18	JACSPB01	843
+ASM2362437v1	GCA_023624375.1		Penicillium chrysogenum		PB3102						30478740	Scaffold	2022-06-01	JAMACL01	213
+ASM2362416v1	GCA_023624165.1		Penicillium chrysogenum		R2501						30471352	Scaffold	2022-06-01	JAMADX01	241
+ASM2362673v1	GCA_023626735.1		Penicillium chrysogenum		PG4202						31734733	Scaffold	2022-06-01	JAMAEE01	209
+ASM2362691v1	GCA_023626915.1		Penicillium chrysogenum		R3301						32644365	Scaffold	2022-06-01	JAMAEN01	422
+ASM2362685v1	GCA_023626855.1		Penicillium chrysogenum		B3902						32593278	Scaffold	2022-06-01	JAMAEG01	272
+ASM2362677v1	GCA_023626775.1		Penicillium chrysogenum		R1211B						32509062	Scaffold	2022-06-01	JAMAEI01	368
+ASM2362675v1	GCA_023626755.1		Penicillium chrysogenum		PA3101						29964000	Scaffold	2022-06-01	JAMAEF01	148
+ASM2362665v1	GCA_023626655.1		Penicillium chrysogenum		PB3904						30328082	Scaffold	2022-06-01	JAMADZ01	140
+ASM2362721v1	GCA_023627215.1		Penicillium chrysogenum		PH2403						29706729	Scaffold	2022-06-01	JAMAFC01	175
+ASM2362735v1	GCA_023627355.1		Penicillium chrysogenum		M20-02						31004779	Scaffold	2022-06-01	JAMAFJ01	395
+ASM2362687v1	GCA_023626875.1		Penicillium chrysogenum		S3404						32426251	Scaffold	2022-06-01	JAMAEL01	352
+ASM2362731v1	GCA_023627315.1		Penicillium chrysogenum		M2202						28865748	Scaffold	2022-06-01	JAMAFH01	165
+ASM2362719v1	GCA_023627195.1		Penicillium chrysogenum		PB2409						29817453	Scaffold	2022-06-01	JAMAFA01	233
+ASM2362725v1	GCA_023627255.1		Penicillium chrysogenum		PG3507						32934761	Scaffold	2022-06-01	JAMAFD01	485
+ASM2362423v1	GCA_023624235.1		Penicillium chrysogenum		P20-02						30446813	Scaffold	2022-06-01	JAMACS01	243
+ASM2362717v1	GCA_023627175.1		Penicillium chrysogenum		R13B						32188916	Scaffold	2022-06-01	JAMAFB01	300
+ASM2362693v1	GCA_023626935.1		Penicillium chrysogenum		S1301						32149178	Scaffold	2022-06-01	JAMAEO01	365
+ASM2362695v1	GCA_023626955.1		Penicillium chrysogenum		S1302						32152572	Scaffold	2022-06-01	JAMAEQ01	362
+ASM2362729v1	GCA_023627295.1		Penicillium chrysogenum		F30-04						29863380	Scaffold	2022-06-01	JAMAFF01	169
+ASM2362705v1	GCA_023627055.1		Penicillium chrysogenum		PK3604						32284811	Scaffold	2022-06-01	JAMAEU01	586
+ASM2362443v1	GCA_023624435.1		Penicillium chrysogenum		P20-04						31003609	Scaffold	2022-06-01	JAMACH01	337
+ASM2362429v1	GCA_023624295.1		Penicillium chrysogenum		R1210						33779266	Scaffold	2022-06-01	JAMACO01	723
+ASM2362709v1	GCA_023627095.1		Penicillium chrysogenum		S3406						32366647	Scaffold	2022-06-01	JAMAEV01	608
+ASM2362715v1	GCA_023627155.1		Penicillium chrysogenum		S2406						29601950	Scaffold	2022-06-01	JAMAEZ01	481
+ASM2889160v1	GCA_028891605.1		Penicillium chrysogenum		BIONCL16						31097111	Scaffold	2023-03-01	JAKRWH01	1532
+ASM4812764v1	GCA_048127645.1		Penicillium chrysogenum		BIONCL16						31097111	Scaffold	2025-02-26	JAKKEL01	1532
+ASM2559003v1	GCA_025590035.1		Penicillium chrysogenum		CGMCC 3.15265						32981487	Scaffold	2022-10-05	JANFQV01	1341
+ASM1558585v1	GCA_015585855.1		Penicillium chrysogenum		IIF4SW-F3						31309220	Scaffold	2020-11-18	JACTVK01	1583
+ASM80135v1	GCA_000801355.1		Penicillium chrysogenum		IB 08/921						32239728	Scaffold	2014-12-15	JPDR01	1151
+KF-25_v1	GCA_000816005.1		Penicillium chrysogenum KF-25		KF-25						29917546	Scaffold	2015-01-08	AZRB01	194
+Penc1.0	GCA_000523475.1		Penicillium chrysogenum NCPC10086		NCPC10086						32303359	Scaffold	2014-01-27	APKG01	175
+Pexp_R19	GCA_004302965.1		Penicillium expansum		R19						32896497	Contig	2019-02-26	REGB01	16
+ASM4423181v1	GCA_044231815.1		Penicillium expansum		21						32468381	Scaffold	2024-11-01	JBIEAQ01	5
+ASM2882785v1	GCA_028827855.1		Penicillium expansum		IBT 35385					Annotation submitted by Aalborg University	31736332	Contig	2023-02-23	JAPWDR01	10
+MDX_Pexp_1.0	GCA_052818325.1		Penicillium expansum					S1-20			32831646	Contig	2025-09-24	JAXGGN01	33
+DTU_Pex_IBT34672	GCA_022829055.1		Penicillium expansum					IBT34672		Annotation submitted by Center for Microbial Secondary Metabolites	32512596	Scaffold	2022-04-06	JAJPGR01	154
+ASM4247748v1	GCA_042477485.1		Penicillium expansum		PPRI25879						32472518	Contig	2024-10-02	JBGBCT01	1648
+ASM76973v1	GCA_000769735.1		Penicillium expansum		d1					Annotation submitted by Center for Genomic Regulation (CRG)	32065046	Contig	2014-10-28	JQFY01	270
+ASM2362447v1	GCA_023624475.1		Penicillium expansum		PF2411						31670603	Scaffold	2022-06-01	JAMACG01	249
+ASM175004v2	GCA_001750045.2		Penicillium expansum		R21						35046070	Scaffold	2016-12-07	MJGF02	257
+Peniclillium expansum v1	GCA_000688875.1		Penicillium expansum		R19						31415732	Contig	2014-04-08	JHUC01	1231
+PEX1	GCA_000769755.1		Penicillium expansum		CMP-1					Annotation submitted by Center for Genomic Regulation (CRG)	31087040	Contig	2014-10-28	JQFX01	1723
+ASM100838v1	GCA_001008385.1		Penicillium expansum T01		T01						33032596	Contig	2015-05-15	AYHP01	527
+PenAur1.0	GCA_000584915.1		Penicillium expansum NRRL 62431		NRRL 62431						31547516	Contig	2014-03-03	ALJY01	4775
+ASM1229554v2	GCA_012295545.2		Penicillium digitatum		DSM 62840					Annotation submitted by Huazhong Agricultural University	26577035	Scaffold	2020-12-16	JAAQRF02	31
+ASM2756980v1	GCA_027569805.1		Penicillium digitatum		NRRL 1202						25175610	Contig	2023-01-04	JAPDKW01	568
+PdigPHI26_v1	GCA_000315665.1		Penicillium digitatum PHI26		PHI26					Annotation submitted by Center for Genomic Regulation (CRG)	25956151	Scaffold	2012-12-03	AKCT01	100
+Pendig1.0	GCA_000485865.1		Penicillium digitatum Pd01-ZJU		Pd01-ZJU						25011071	Contig	2013-10-29	ANGJ01	1816
+ASM130786v1	GCA_001307865.1		Penicillium digitatum PDC 102		PDC 102						25204439	Scaffold	2015-10-07	LHSL01	883
+PI	GCA_001008395.1		Penicillium italicum		B3						28597635	Scaffold	2015-05-15	JMDK01	1186
+ASM76976v1	GCA_000769765.1		Penicillium italicum		PHI-1					Annotation submitted by Center for Genomic Regulation (CRG)	30164421	Contig	2014-10-28	JQGA01	1632
+ASM2313835v1	GCA_023138355.1		Penicillium roqueforti		CBS 147331					Annotation submitted by Utrecht University	26501980	Scaffold	2022-04-29	JAKIJW01	56
+ASM2306549v1	GCA_023065495.1		Penicillium roqueforti		CBS 147318					Annotation submitted by Utrecht University	27208865	Scaffold	2022-04-22	JAIWKL01	46
+ASM2314114v1	GCA_023141145.1		Penicillium roqueforti		DTO 039-G3					Annotation submitted by Utrecht University	27194146	Scaffold	2022-04-26	JAKIKC01	43
+JCM_22842_assembly_v001	GCA_001599855.1		Penicillium roqueforti		JCM 22842						27123058	Scaffold	2016-03-01	BCID01	16
+ASM2306541v1	GCA_023065415.1		Penicillium roqueforti		CBS 147355					Annotation submitted by Utrecht University	27165649	Scaffold	2022-04-22	JAIWKH01	61
+ASM2314127v1	GCA_023141275.1		Penicillium roqueforti		DTO 012-A7					Annotation submitted by Utrecht University	27298807	Scaffold	2022-04-29	JAKIKI01	61
+ASM2306559v1	GCA_023065595.1		Penicillium roqueforti		CBS 147332					Annotation submitted by Utrecht University	26503641	Scaffold	2022-04-22	JAIWKK01	53
+ASM2313844v1	GCA_023138445.1		Penicillium roqueforti		CBS 147330					Annotation submitted by Utrecht University	28030160	Scaffold	2022-04-26	JAKIJX01	172
+ASM2313867v1	GCA_023138675.1		Penicillium roqueforti		CBS 147317					Annotation submitted by Utrecht University	26719920	Scaffold	2022-04-26	JAKIKA01	58
+ASM2314130v1	GCA_023141305.1		Penicillium roqueforti		CBS 147310					Annotation submitted by Utrecht University	27255132	Scaffold	2022-04-26	JAKIKJ01	91
+ASM2306537v1	GCA_023065375.1		Penicillium roqueforti		LCP 96.3914a					Annotation submitted by Utrecht University	28037876	Scaffold	2022-04-22	JAIWKG01	100
+ASM2313861v1	GCA_023138615.1		Penicillium roqueforti		CBS 147326					Annotation submitted by Utrecht University	28489418	Scaffold	2022-04-26	JAKIJY01	178
+ASM2313799v1	GCA_023137995.1		Penicillium roqueforti		CBS 147339					Annotation submitted by Utrecht University	28417908	Scaffold	2022-04-26	JAKIJT01	103
+ASM2314116v1	GCA_023141165.1		Penicillium roqueforti		DTO 027-I6					Annotation submitted by Utrecht University	29271598	Scaffold	2022-04-29	JAKIKE01	176
+ASM2314131v1	GCA_023141315.1		Penicillium roqueforti		CBS 147309					Annotation submitted by Utrecht University	27042476	Scaffold	2022-04-29	JAKIKK01	70
+ASM2314135v1	GCA_023141355.1		Penicillium roqueforti		DTO 006-G7					Annotation submitted by Utrecht University	27939300	Scaffold	2022-04-29	JAKIKL01	99
+ASM2309108v1	GCA_023091085.1		Penicillium roqueforti		CBS 147372					Annotation submitted by Utrecht University	26732615	Scaffold	2022-04-22	JAIWKJ01	65
+ASM2314111v1	GCA_023141115.1		Penicillium roqueforti		DTO 032-C6					Annotation submitted by Utrecht University	28454168	Scaffold	2022-04-26	JAKIKD01	141
+ASM2306565v1	GCA_023065655.1		Penicillium roqueforti		DTO 006-G1					Annotation submitted by Utrecht University	27936863	Scaffold	2022-04-22	JAIWKP01	108
+ASM2282911v1	GCA_022829115.1		Penicillium roqueforti		CBS 147337					Annotation submitted by Utrecht University	29905580	Scaffold	2022-04-06	JAKIJR01	234
+ASM2313864v1	GCA_023138645.1		Penicillium roqueforti		CBS 147325					Annotation submitted by Utrecht University	28959035	Scaffold	2022-04-26	JAKIJZ01	140
+ASM2314115v1	GCA_023141155.1		Penicillium roqueforti		DTO 046-C5					Annotation submitted by Utrecht University	28801959	Scaffold	2022-04-26	JAKIKB01	143
+ASM2306568v1	GCA_023065685.1		Penicillium roqueforti		DTO 012-A1					Annotation submitted by Utrecht University	29338683	Scaffold	2022-04-22	JAIWKO01	157
+ASM2314151v1	GCA_023141515.1		Penicillium roqueforti		DTO 002-I6					Annotation submitted by Utrecht University	29448982	Scaffold	2022-04-26	JAKIKO01	129
+ASM2314120v1	GCA_023141205.1		Penicillium roqueforti		CBS 147311					Annotation submitted by Utrecht University	29527522	Scaffold	2022-04-26	JAKIKF01	297
+ASM2313801v1	GCA_023138015.1		Penicillium roqueforti		CBS 147333					Annotation submitted by Utrecht University	30442347	Scaffold	2022-04-26	JAKIJV01	530
+ASM2306546v1	GCA_023065465.1		Penicillium roqueforti		CBS 147354					Annotation submitted by Utrecht University	28255295	Scaffold	2022-04-22	JAIWKI01	155
+ASM2314139v1	GCA_023141395.1		Penicillium roqueforti		DTO 003-C3					Annotation submitted by Utrecht University	30243556	Scaffold	2022-04-26	JAKIKN01	347
+ASM2314119v1	GCA_023141195.1		Penicillium roqueforti		DTO 013-E5					Annotation submitted by Utrecht University	29239760	Scaffold	2022-04-26	JAKIKG01	164
+ASM2314138v1	GCA_023141385.1		Penicillium roqueforti		CBS 147308					Annotation submitted by Utrecht University	30253856	Scaffold	2022-04-26	JAKIKM01	377
+PrP1-1.0	GCA_000737485.2		Penicillium roqueforti		UASWS P1						27903456	Contig	2015-06-08	JNNS01	427
+ASM2314123v1	GCA_023141235.1		Penicillium roqueforti		DTO 012-A9					Annotation submitted by Utrecht University	29807386	Scaffold	2022-04-26	JAKIKH01	577
+ASM2306552v1	GCA_023065525.1		Penicillium roqueforti		DTO 013-F2					Annotation submitted by Utrecht University	31707239	Scaffold	2022-04-20	JAIWKM01	655
+ASM2313800v1	GCA_023138005.1		Penicillium roqueforti		CBS 147338					Annotation submitted by Utrecht University	28283809	Scaffold	2022-04-26	JAKIJU01	270
+ASM2306562v1	GCA_023065625.1		Penicillium roqueforti		DTO 012-A8					Annotation submitted by Utrecht University	29562938	Scaffold	2022-04-22	JAIWKN01	1357
+PROQFM164_20130607	GCA_000513255.1		Penicillium roqueforti FM164		FM164					Annotation submitted by INRA-LIPM	29010044	Scaffold	2013-11-27	CBMR01	48
+ASM3632084v1	GCA_036320845.1		Penicillium citrinum		B9					Annotation submitted by Temasek Life Sciences laboratories	31333751	Contig	2024-01-31	JAWVBB01	9
+ASM2362459v1	GCA_023624595.1		Penicillium citrinum		PH4033						31677846	Scaffold	2022-06-01	JAMABY01	84
+JCM_22607_assembly_v001	GCA_001950535.1		Penicillium citrinum		JCM 22607						33998198	Scaffold	2016-12-09	BCKA01	50
+ASM2576855v1	GCA_025768555.1		Penicillium citrinum		X2502D						31971813	Scaffold	2022-10-20	JAMFOF01	326
+ASM1919119v1	GCA_019191195.1		Penicillium citrinum		F4_1A_F1_F						30994190	Scaffold	2021-07-09	JAHART01	87
+ASM2576840v1	GCA_025768405.1		Penicillium citrinum		PT2504						32218659	Scaffold	2022-10-20	JAMFOJ01	218
+ASM2576835v1	GCA_025768355.1		Penicillium citrinum		PB2505						32194448	Scaffold	2022-10-20	JAMFOL01	235
+ASM2578286v1	GCA_025782865.1		Penicillium citrinum		R2503						31940650	Scaffold	2022-10-20	JAMFOG01	385
+ASM2576879v1	GCA_025768795.1		Penicillium citrinum		PDH2504						32205893	Scaffold	2022-10-20	JAMFNZ01	231
+ASM2576870v1	GCA_025768705.1		Penicillium citrinum		PB2504						32277539	Scaffold	2022-10-20	JAMFOA01	261
+ASM2576852v1	GCA_025768525.1		Penicillium citrinum		M7005D						32885620	Scaffold	2022-10-20	JAMFOH01	272
+ASM2576858v1	GCA_025768585.1		Penicillium citrinum		PA2509						32255349	Scaffold	2022-10-20	JAMFOE01	243
+ASM2576832v1	GCA_025768325.1		Penicillium citrinum		PA2506						32225090	Scaffold	2022-10-20	JAMFOM01	302
+ASM3704421v1	GCA_037044215.1		Penicillium citrinum		LH_A494						31633929	Contig	2024-03-06	JAWLTK01	180
+ASM2576838v1	GCA_025768385.1		Penicillium citrinum		PYS008B						31637923	Scaffold	2022-10-20	JAMFOK01	95
+ASM2576876v1	GCA_025768765.1		Penicillium citrinum		B8014						35121705	Scaffold	2022-10-20	JAMFNX01	636
+ASM2576873v1	GCA_025768735.1		Penicillium citrinum		PG2501						32180833	Scaffold	2022-10-20	JAMFNY01	258
+ASM2576866v1	GCA_025768665.1		Penicillium citrinum		PT2503						31703628	Scaffold	2022-10-20	JAMFOB01	210
+ASM2576864v1	GCA_025768645.1		Penicillium citrinum		S2504						31985096	Scaffold	2022-10-20	JAMFOD01	287
+ASM2362467v1	GCA_023624675.1		Penicillium citrinum		PA2510						31617329	Scaffold	2022-06-01	JAMABW01	352
+ASM2576861v1	GCA_025768615.1		Penicillium citrinum		PF2509S						32004788	Scaffold	2022-10-20	JAMFOC01	255
+ASM2576844v1	GCA_025768445.1		Penicillium citrinum		PT2506						31713240	Scaffold	2022-10-20	JAMFOI01	271
+ASM2756975v1	GCA_027569755.1		Penicillium citrinum		NRRL 756						34677391	Contig	2023-01-04	JAPDKV01	583
+ASM2553190v1	GCA_025531905.1		Penicillium citrinum		P8002						32193715	Scaffold	2022-10-03	JAMFRK01	148
+ASM2362465v1	GCA_023624655.1		Penicillium citrinum		P8015						33560626	Scaffold	2022-06-01	JAMABX01	400
+PCAss	GCA_001399475.1		Penicillium citrinum		DSM 1997						31529786	Contig	2015-10-19	LKUP01	976
+ASM1558590v1	GCA_015585905.1		Penicillium polonicum		IIF1SW-F3						31586729	Scaffold	2020-11-18	JACSOV01	464
+ASM334459v1	GCA_003344595.1		Penicillium polonicum		hy4						33920094	Scaffold	2018-07-27	QPIC01	32
+ASM5357382v1	GCA_053573825.1		Penicillium polonicum		MS0192						32906559	Contig	2025-11-21	JBNMDX01	152
+ASM5357292v1	GCA_053572925.1		Penicillium polonicum		MS0202						32415201	Contig	2025-11-21	JBNLIZ01	132
+ASM207226v1	GCA_002072265.1		Penicillium polonicum		IBT 4502					Annotation submitted by Chalmers University of Technology	32376562	Scaffold	2017-03-24	MDYM01	74
+ASM2576826v1	GCA_025768265.1		Penicillium polonicum		PB2502						32214567	Scaffold	2022-10-20	JAMFOP01	428
+ASM2576829v1	GCA_025768295.1		Penicillium polonicum		PM3203						32408952	Scaffold	2022-10-20	JAMFON01	470
+ASM2576885v1	GCA_025768855.1		Penicillium polonicum		R2416						31984036	Scaffold	2022-10-20	JAMFOO01	480
+ASM2362647v1	GCA_023626475.1		Penicillium janthinellum		PG2901						33094021	Scaffold	2022-06-01	JAMADV01	1031
+ASM2362645v1	GCA_023626455.1		Penicillium janthinellum		PG2902						33076757	Scaffold	2022-06-01	JAMADU01	928
+ASM2558991v1	GCA_025589915.1		Penicillium polonicum		CGMCC 3.15272						31085775	Scaffold	2022-10-05	JANFQU01	760
+ASM236980v1	GCA_002369805.1		Penicillium janthinellum		NCIM1366						37601233	Contig	2017-09-26	NPFE01	1773
+ASM2559080v1	GCA_025590805.1		Penicillium polonicum		CGMCC 3.15264						31860205	Scaffold	2022-10-05	JANFQW01	1008
+ASM2055736v1	GCA_020557365.1		Penicillium griseofulvum		D-756						28923620	Contig	2021-10-25	JAHTKM01	6
+ASM4742633v1	GCA_047426335.1		Penicillium griseofulvum		CF3						29236174	Contig	2025-02-04	JBLEBL01	43
+ASM5211073v1	GCA_052110735.1		Penicillium crustosum		CTM10622						31379761	Contig	2025-08-18	JBQLZF01	42
+ASM4364395v1	GCA_043643955.1		Penicillium crustosum		PRB-2					Annotation submitted by Philipps-Universitaet Marburg	32152035	Scaffold	2024-10-23	JBCAMJ01	143
+ASM491685v1	GCA_004916855.1		Penicillium brasilianum		ZJ-7						35596970	Scaffold	2019-04-25	SSWP01	1125
+ASM201655v1	GCA_002016555.1		Penicillium brasilianum		LaBioMMi 136					Annotation submitted by LNCC	32945979	Scaffold	2017-03-03	LJBN01	248
+ASM1462137v1	GCA_014621375.1		Penicillium crustosum		G10					Annotation submitted by USDA ARS	31341180	Scaffold	2020-09-17	JAAOZQ01	431
+Pcrustosum_CAL64_v2	GCA_902712905.1		Penicillium crustosum					CAL64		Annotation submitted by UNIVERSITY OF TURIN	31059425	Scaffold	2025-02-20	CACTHZ02	427
+ASM175002v1	GCA_001750025.1		Penicillium sclerotiorum		113						34025097	Scaffold	2016-09-29	MJCA01	228
+ASM2558393v1	GCA_025583935.1		Penicillium crustosum		IFST Pcru1						31193977	Scaffold	2022-10-05	JANFQQ01	441
+PgMRI314Ass_v1	GCA_001735785.1		Penicillium griseofulvum		MRI314						28072829	Contig	2016-09-20	LWCZ01	1656
+ASM2882850v1	GCA_028828505.1		Penicillium rubens		IBT 35670					Annotation submitted by Aalborg University	33546860	Contig	2023-02-23	JAQKAG01	8
+ASM2725700v2	GCA_027257005.2		Penicillium rubens		S27						29942334	Contig	2024-04-18	JAPDLD02	13
+UCR_PencilliumYAP1_1.1	GCA_028751425.1		Penicillium rubens		YAP1					Annotation submitted by University of Southern California	34788359	Scaffold	2023-02-21	JAQSHQ01	46
+ASM2725699v2	GCA_027256995.2		Penicillium rubens		212						29894441	Contig	2024-04-18	JAPDLE02	13
+ASM1918927v1	GCA_019189275.1		Penicillium rubens		F8_6S_6F						30459701	Scaffold	2021-07-09	JAHAPB01	182
+ASM1918924v1	GCA_019189245.1		Penicillium rubens		F8_6S_7F						31558626	Scaffold	2021-07-09	JAHAPA01	469
+nPRUBv1	GCA_902636305.1		Penicillium rubens								30457692	Scaffold	2020-05-07	CACPRF01	101
+ASM5357389v1	GCA_053573895.1		Penicillium rubens		MS0077						32444344	Contig	2025-11-21	JBNLKM01	531
+ASM5357362v1	GCA_053573625.1		Penicillium rubens		MS0123						33762615	Contig	2025-11-21	JBNLKH01	610
+ASM5357310v1	GCA_053573105.1		Penicillium rubens		MS0190						31894224	Contig	2025-11-21	JBNLJH01	303
+ASM1105888v1	GCA_011058885.1		Penicillium rubens		43M1					Annotation submitted by University of Campinas	33386079	Scaffold	2020-03-03	SWKS01	466
+ASM95277v2	GCA_000952775.2		Penicillium solitum		RS1						35233101	Contig	2016-05-01	JYNM02	7
+ASM2882725v1	GCA_028827255.1		Penicillium brevicompactum		IBT 35673					Annotation submitted by Aalborg University	29909766	Contig	2023-02-23	JAPZBQ01	6
+ASM2882751v1	GCA_028827515.1		Penicillium brevicompactum		IBT 35675					Annotation submitted by Aalborg University	32518670	Contig	2023-02-23	JAPZBR01	8
+ASM5357366v1	GCA_053573665.1		Penicillium brevicompactum		MS0096						32039037	Contig	2025-11-21	JBNLKJ01	224
+ASM5357298v1	GCA_053572985.1		Penicillium brevicompactum		MS0198						34257784	Contig	2025-11-21	JBNLJC01	921
+ASM5357346v1	GCA_053573465.1		Penicillium brevicompactum		MS0154						34199252	Contig	2025-11-21	JBNLJY01	838
+ASM5357306v1	GCA_053573065.1		Penicillium brevicompactum		MS0193						34227150	Contig	2025-11-21	JBNLJF01	885
+ASM5357320v1	GCA_053573205.1		Penicillium brevicompactum		MS0184						34244639	Contig	2025-11-21	JBNLJM01	993
+ASM4014400v1	GCA_040144005.1		Penicillium brevicompactum		CMG72					Annotation submitted by University of Aveiro	31099004	Scaffold	2024-06-12	JAVTHO01	239
+ASM2362469v1	GCA_023624695.1		Penicillium solitum		S2401						31115313	Scaffold	2022-06-01	JAMABV01	175
+ASM2362471v1	GCA_023624715.1		Penicillium solitum		M7003A						31139402	Scaffold	2022-06-01	JAMABU01	187
+ASM2362473v1	GCA_023624735.1		Penicillium solitum		Y2401						31115820	Scaffold	2022-06-01	JAMABT01	181
+ASM2362477v1	GCA_023624775.1		Penicillium solitum		PB3502S						31300834	Scaffold	2022-06-01	JAMABQ01	156
+ASM2362475v1	GCA_023624755.1		Penicillium solitum		PL1801						31811785	Scaffold	2022-06-01	JAMABR01	207
+ASM2362481v1	GCA_023624815.1		Penicillium solitum		Y2401C						31102149	Scaffold	2022-06-01	JAMABP01	195
+ASM2362478v1	GCA_023624785.1		Penicillium solitum		S2705F						31759869	Scaffold	2022-06-01	JAMABS01	285
+ASM2281334v1	GCA_022813345.1		Penicillium brevicompactum		FJII-L9-SW-P1						31228461	Scaffold	2022-04-04	JAKLMP01	510
+ASM1984358v1	GCA_019843585.1		Penicillium brevicompactum		HOCR17						29672684	Scaffold	2021-09-01	JAHQJA01	38
+ASM175000v1	GCA_001750005.1		Penicillium solitum		NJ1						31778960	Scaffold	2016-09-29	MJCB01	91
+ASM2882687v1	GCA_028826875.1		Penicillium capsulatum		IBT 21917					Annotation submitted by Aalborg University	27537137	Contig	2023-02-23	JAPQKO01	10
+ASM94377v1	GCA_000943775.1		Penicillium capsulatum		LiaoWQ-2011						34340580	Contig	2015-03-04	JPLR01	62
+ASM94376v1	GCA_000943765.1		Penicillium capsulatum		ATCC 48735						34374118	Contig	2015-03-04	JPLQ01	65
+ASM2281330v1	GCA_022813305.1		Penicillium decumbens		FJII-L3-CM-PAB4						24008368	Scaffold	2022-04-04	JAKLMS01	216
+ASM207224v1	GCA_002072245.1		Penicillium decumbens		IBT 11843					Annotation submitted by Chalmers University of Technology	23940802	Scaffold	2017-03-24	MDYL01	403
+ASM2281313v1	GCA_022813135.1		Penicillium decumbens		FKII-L3-CM-DRAB1						26798112	Scaffold	2022-04-04	JAKLNH01	281
+ASM2558504v1	GCA_025585045.1		Penicillium verrucosum		IFST Pver1						29905142	Scaffold	2022-10-05	JANFQS01	1120
+ASM2558509v1	GCA_025585095.1		Penicillium verrucosum		IFST Pver2						30334630	Scaffold	2022-10-05	JANFQR01	1092
+PV808_April18ReSeqReAss	GCA_000970515.2		Penicillium verrucosum		BFE808						30246699	Contig	2018-07-03	LAKW02	1766
+ASM2362737v1	GCA_023627375.1		Penicillium paneum		M1707						27179947	Scaffold	2022-06-01	JAMAFK01	256
+ASM2362463v1	GCA_023624635.1		Penicillium paneum		PT1701						27313045	Scaffold	2022-06-01	JAMACB01	289
+ASM2362461v1	GCA_023624615.1		Penicillium paneum		PF1704S						27184362	Scaffold	2022-06-01	JAMACA01	327
+ASM2362451v1	GCA_023624515.1		Penicillium paneum		PH1708						27163800	Scaffold	2022-06-01	JAMACE01	269
+ASM2362457v1	GCA_023624575.1		Penicillium paneum		S1708						26894645	Scaffold	2022-06-01	JAMABZ01	227
+ASM2362449v1	GCA_023624495.1		Penicillium paneum		Y6003						26554457	Scaffold	2022-06-01	JAMACF01	259
+ASM2362453v1	GCA_023624535.1		Penicillium paneum		M1705						27436793	Scaffold	2022-06-01	JAMACD01	556
+ASM1558609v1	GCA_015586095.1		Penicillium camemberti		IF2SW-F1						36598760	Scaffold	2020-11-18	JACSPF01	834
+ASM1558574v1	GCA_015585745.1		Penicillium camemberti		IIF8SW-F2						36578643	Scaffold	2020-11-18	JACSOP01	846
+ASM1558626v1	GCA_015586265.1		Penicillium camemberti		F3_3F1_F						36854083	Scaffold	2020-11-18	JADBHB01	1098
+ASM1558575v1	GCA_015585755.1		Penicillium camemberti		IIF8SW-F3						36611558	Scaffold	2020-11-18	JACSOO01	828
+ASM2362455v1	GCA_023624555.1		Penicillium paneum		Y1702						27791976	Scaffold	2022-06-01	JAMACC01	1866
+PPANFM227_20131217	GCA_000577715.1		Penicillium paneum FM227		FM227						26579303	Scaffold	2014-02-20	CBXN01	224
+PBIFFM169_20131217	GCA_000577785.1		Penicillium biforme FM169		FM169						34874608	Scaffold	2014-02-20	CBXO01	582
+PCAMFM013_20131106	GCA_000513335.1		Penicillium camemberti FM 013		FM 013					Annotation submitted by INRA-LIPM	35011981	Scaffold	2013-12-19	CBVV01	180
+ASM2882867v1	GCA_028828675.1		Penicillium herquei		IBT 29812					Annotation submitted by Aalborg University	37080134	Contig	2023-02-23	JAQJZK01	11
+ASM2882873v1	GCA_028828735.1		Penicillium canescens		IBT 15450					Annotation submitted by Aalborg University	46355660	Contig	2023-02-23	JAQJZL01	18
+ASM2882900v1	GCA_028829005.1		Penicillium canescens		IBT 13549					Annotation submitted by Aalborg University	41574211	Contig	2023-02-23	JAQJZW01	15
+ASM2882974v1	GCA_028829745.1		Penicillium canescens		IBT 15452					Annotation submitted by Aalborg University	46501943	Contig	2023-02-23	JAQKAC01	21
+ASM2882879v1	GCA_028828795.1		Penicillium canescens		IBT 18980					Annotation submitted by Aalborg University	41773848	Contig	2023-02-23	JAQJZO01	20
+ASM2882882v1	GCA_028828825.1		Penicillium canescens		IBT 19259					Annotation submitted by Aalborg University	32834794	Contig	2023-02-23	JAQJZP01	10
+ASM2882874v1	GCA_028828745.1		Penicillium canescens		IBT 15449					Annotation submitted by Aalborg University	46485972	Contig	2023-02-23	JAQJZM01	23
+ASM2882826v1	GCA_028828265.1		Penicillium herquei		IBT 20771					Annotation submitted by Aalborg University	33697684	Contig	2023-02-23	JAQJVJ01	21
+ASM2875141v1	GCA_028751415.1		Penicillium turbatum		blh34						27898420	Contig	2023-02-21	JAPZPZ01	26
+ASM2640142v1	GCA_026401425.1		Penicillium herquei		XQL_2021						40249563	Contig	2022-11-25	JANAWU01	65
+ASM2550262v1	GCA_025502625.1		Penicillium olsonii		WHG5						29298018	Scaffold	2022-09-30	JANQBG01	62
+Pols_LCP04863	GCA_911174945.1		Penicillium olsonii							Annotation submitted by University Paris-Sud	29440668	Scaffold	2022-09-22	CAJVOS01	104
+Pbialowiezense_CAS30_v2	GCA_902713515.1		Penicillium bialowiezense					CAS30		Annotation submitted by UNIVERSITY OF TURIN	29196120	Scaffold	2025-02-20	CACTIO02	113
+ASM5357326v1	GCA_053573265.1		Penicillium commune		MS0172						35971340	Contig	2025-11-21	JBNLJQ01	187
+ASM5357338v1	GCA_053573385.1		Penicillium commune		MS0160						35971041	Contig	2025-11-21	JBNLJW01	193
+ASM5357356v1	GCA_053573565.1		Penicillium commune		MS0135						35976482	Contig	2025-11-21	JBNLKE01	194
+ASM5357312v1	GCA_053573125.1		Penicillium commune		MS0189						35973690	Contig	2025-11-21	JBNLJI01	198
+ASM5357340v1	GCA_053573405.1		Penicillium commune		MS0163						36633640	Contig	2025-11-21	JBNLJV01	225
+ASM5357387v1	GCA_053573875.1		Penicillium commune		MS0090						35962438	Contig	2025-11-21	JBNLKK01	187
+ASM5357294v1	GCA_053572945.1		Penicillium commune		MS0203						35977220	Contig	2025-11-21	JBNLIY01	182
+ASM5357415v1	GCA_053574155.1		Penicillium commune		MS0023						36628067	Contig	2025-11-21	JBNLKZ01	238
+ASM5357300v1	GCA_053573005.1		Penicillium commune		MS0199						35975260	Contig	2025-11-21	JBNLJB01	172
+ASM5357276v1	GCA_053572765.1		Penicillium commune		MS0228						35975049	Contig	2025-11-21	JBNLIQ01	184
+ASM5357274v1	GCA_053572745.1		Penicillium commune		MS0262						35980095	Contig	2025-11-21	JBNLIP01	205
+ASM5357336v1	GCA_053573365.1		Penicillium commune		MS0164						36626397	Contig	2025-11-21	JBNLJU01	237
+ASM5357328v1	GCA_053573285.1		Penicillium commune		MS0175						35964138	Contig	2025-11-21	JBNLJP01	193
+ASM5357268v1	GCA_053572685.1		Penicillium commune		MS0266						35971223	Contig	2025-11-21	JBNLIM01	219
+ASM5357322v1	GCA_053573225.1		Penicillium commune		MS0182						35960574	Contig	2025-11-21	JBNLJN01	198
+ASM5357296v1	GCA_053572965.1		Penicillium commune		MS0200						35964737	Contig	2025-11-21	JBNLJA01	189
+ASM5357342v1	GCA_053573425.1		Penicillium commune		MS0158						36635272	Contig	2025-11-21	JBNLJX01	229
+ASM5357272v1	GCA_053572725.1		Penicillium commune		MS0263						35973124	Contig	2025-11-21	JBNLIO01	212
+ASM5357413v1	GCA_053574135.1		Penicillium commune		MS0028						35963695	Contig	2025-11-21	JBNLKY01	201
+Pols_ESE00149	GCA_911174955.1		Penicillium olsonii							Annotation submitted by University Paris-Sud	29814039	Scaffold	2022-09-22	CAJVNP01	184
+ASM5357352v1	GCA_053573525.1		Penicillium commune		MS0139						35974185	Contig	2025-11-21	JBNLKC01	212
+ASM5357290v1	GCA_053572905.1		Penicillium commune		MS0205						35974884	Contig	2025-11-21	JBNLIX01	199
+ASM5357318v1	GCA_053573185.1		Penicillium commune		MS0185						35977563	Contig	2025-11-21	JBNLJL01	191
+ASM5357348v1	GCA_053573485.1		Penicillium commune		MS0141						35979068	Contig	2025-11-21	JBNLKB01	198
+ASM5357288v1	GCA_053572885.1		Penicillium commune		MS0206						35970740	Contig	2025-11-21	JBNLIW01	207
+ASM5357256v1	GCA_053572565.1		Penicillium commune		MS0279						36632090	Contig	2025-11-21	JBNLII01	237
+ASM5357324v1	GCA_053573245.1		Penicillium commune		MS0177						35977971	Contig	2025-11-21	JBNLJO01	198
+ASM5357391v1	GCA_053573915.1		Penicillium commune		MS0058						35970984	Contig	2025-11-21	JBNLKO01	186
+ASM5357405v1	GCA_053574055.1		Penicillium commune		MS0036						35977115	Contig	2025-11-21	JBNLKU01	186
+ASM5357266v1	GCA_053572665.1		Penicillium commune		MS0267						36628613	Contig	2025-11-21	JBNLIL01	257
+ASM5357393v1	GCA_053573935.1		Penicillium commune		MS0076						35974089	Contig	2025-11-21	JBNLKN01	238
+ASM5357257v1	GCA_053572575.1		Penicillium commune		MS0291						36631363	Contig	2025-11-21	JBNLIH01	265
+ASM5357282v1	GCA_053572825.1		Penicillium commune		MS0213						35963030	Contig	2025-11-21	JBNLIT01	210
+ASM5357314v1	GCA_053573145.1		Penicillium commune		MS0187						35963037	Contig	2025-11-21	JBNLJJ01	198
+ASM5357262v1	GCA_053572625.1		Penicillium commune		MS0275						35975854	Contig	2025-11-21	JBNLIJ01	193
+ASM5357368v1	GCA_053573685.1		Penicillium commune		MS0086						35975790	Contig	2025-11-21	JBNLKL01	199
+ASM5357411v1	GCA_053574115.1		Penicillium commune		MS0031						36627483	Contig	2025-11-21	JBNLKX01	228
+ASM5357364v1	GCA_053573645.1		Penicillium commune		MS0103						35962999	Contig	2025-11-21	JBNLKI01	229
+ASM5357316v1	GCA_053573165.1		Penicillium commune		MS0186						35976742	Contig	2025-11-21	JBNLJK01	211
+ASM5357419v1	GCA_053574195.1		Penicillium commune		MS0003						35964311	Contig	2025-11-21	JBNLLB01	205
+ASM5357344v1	GCA_053573445.1		Penicillium commune		MS0148						35975495	Contig	2025-11-21	JBNLJZ01	218
+ASM5357360v1	GCA_053573605.1		Penicillium commune		MS0129						36629016	Contig	2025-11-21	JBNLKG01	279
+ASM5357278v1	GCA_053572785.1		Penicillium commune		MS0217						36635041	Contig	2025-11-21	JBNLIR01	250
+ASM5357304v1	GCA_053573045.1		Penicillium commune		MS0196						35978951	Contig	2025-11-21	JBNLJE01	222
+ASM5357264v1	GCA_053572645.1		Penicillium commune		MS0273						35973657	Contig	2025-11-21	JBNLIK01	190
+Pols_CBS266.97	GCA_911150065.1		Penicillium olsonii							Annotation submitted by University Paris-Sud	28772805	Scaffold	2022-09-22	CAJVNJ01	100
+ASM5357332v1	GCA_053573325.1		Penicillium commune		MS0165						35975334	Contig	2025-11-21	JBNLJT01	247
+ASM5357399v1	GCA_053573995.1		Penicillium commune		MS0042						35974716	Contig	2025-11-21	JBNLKR01	205
+ASM5357407v1	GCA_053574075.1		Penicillium commune		MS0034						35976935	Contig	2025-11-21	JBNLKV01	234
+ASM5357260v1	GCA_053572605.1		Penicillium commune		MS0296						36633908	Contig	2025-11-21	JBNLIG01	261
+ASM5357385v1	GCA_053573855.1		Penicillium commune		MS0188						35975469	Contig	2025-11-21	JBNMDY01	222
+ASM5357354v1	GCA_053573545.1		Penicillium commune		MS0136						36632084	Contig	2025-11-21	JBNLKD01	263
+ASM5357350v1	GCA_053573505.1		Penicillium commune		MS0147						35976057	Contig	2025-11-21	JBNLKA01	201
+ASM5357358v1	GCA_053573585.1		Penicillium commune		MS0132						35978389	Contig	2025-11-21	JBNLKF01	237
+ASM5357330v1	GCA_053573305.1		Penicillium commune		MS0171						35956627	Contig	2025-11-21	JBNLJR01	215
+ASM5357417v1	GCA_053574175.1		Penicillium commune		MS0006						35965246	Contig	2025-11-21	JBNLLA01	230
+ASM5357401v1	GCA_053574015.1		Penicillium commune		MS0040						35973461	Contig	2025-11-21	JBNLKS01	211
+ASM5357403v1	GCA_053574035.1		Penicillium commune		MS0038						35973258	Contig	2025-11-21	JBNLKT01	218
+ASM5357409v1	GCA_053574095.1		Penicillium commune		MS0033						35972170	Contig	2025-11-21	JBNLKW01	214
+ASM5357270v1	GCA_053572705.1		Penicillium commune		MS0265						36630301	Contig	2025-11-21	JBNLIN01	302
+Pols_CBS626.72	GCA_911150075.1		Penicillium olsonii							Annotation submitted by University Paris-Sud	29664249	Scaffold	2022-09-22	CAJVNK01	145
+ASM5357284v1	GCA_053572845.1		Penicillium commune		MS0211						35978359	Contig	2025-11-21	JBNLIU01	240
+ASM5357308v1	GCA_053573085.1		Penicillium commune		MS0191						35965930	Contig	2025-11-21	JBNLJG01	255
+ASM5357334v1	GCA_053573345.1		Penicillium commune		MS0169						35969114	Contig	2025-11-21	JBNLJS01	260
+ASM5357397v1	GCA_053573975.1		Penicillium commune		MS0043						36625832	Contig	2025-11-21	JBNLKQ01	301
+ASM5357395v1	GCA_053573955.1		Penicillium commune		MS0048						35977519	Contig	2025-11-21	JBNLKP01	214
+Poch_1.0	GCA_047150385.1		Penicillium ochrochloron		hvef18					Annotation submitted by Tohoku Medical Megabank Organization, Tohoku University	35878523	Scaffold	2024-11-20	BSEA01	370
+ASM5357286v1	GCA_053572865.1		Penicillium commune		MS0208						36561999	Contig	2025-11-21	JBNLIV01	420
+ASM2756946v1	GCA_027569465.1		Penicillium simplicissimum		NRRL 2016						33887775	Contig	2023-01-04	JAPDFD01	351
+ASM2756944v1	GCA_027569445.1		Penicillium simplicissimum		NRRL 1075						35492966	Contig	2023-01-04	JAPDFC01	421
+ASM238283v1	GCA_002382835.1		Penicillium occitanis (nom. inval.)		CT1					Annotation submitted by Center for Genomic Regulation (CRG)	36444931	Contig	2017-09-27	NPFJ01	1650
+ASM5232353v1	GCA_052323535.1		Penicillium fuscoglaucum		ESE00090						34666940	Contig	2025-08-28	JBNLVY01	12
+PNALFM193_20131217	GCA_000577395.2		Penicillium nalgiovense FM193		FM193						31913282	Scaffold	2014-02-20	CBXQ01	868
+Pnal_ESE00253	GCA_911174935.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31630503	Scaffold	2022-09-22	CAJVNQ01	479
+Pnal_ESE00265	GCA_911175205.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31250068	Scaffold	2022-09-22	CAJVOA01	532
+Pnal_LCP03435	GCA_920106075.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31422740	Scaffold	2022-07-01	CAKKTF01	512
+Pnal_ESE00257	GCA_911174915.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31547343	Scaffold	2022-09-22	CAJVOM01	476
+Pnal_LCP03915	GCA_911175305.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31543392	Scaffold	2022-09-22	CAJVOW01	503
+Pnal_ESE00264	GCA_911175125.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31779405	Scaffold	2022-09-22	CAJVOH01	616
+ASM2281336v1	GCA_022813365.1		Penicillium fuscoglaucum		FJII-L5-SW-P3						36373805	Scaffold	2022-04-04	JAKLMO01	1188
+PFUSFM041_20131217	GCA_000576735.1		Penicillium fuscoglaucum FM041		FM041						36085495	Scaffold	2014-02-20	CBXP01	953
+ASM1980454v1	GCA_019804545.1		Penicillium fuscoglaucum		S/N-202-OC-P2						36055127	Contig	2021-08-30	JAETFT01	1126
+ASM1980455v1	GCA_019804555.1		Penicillium fuscoglaucum		VS AB I KN 5						36046639	Contig	2021-08-30	JAETFU01	1126
+Pnal_LCP03991	GCA_911639145.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31425394	Scaffold	2022-07-01	CAJVRG01	611
+Pnal_DTO204-F1	GCA_911174875.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	29880352	Scaffold	2022-09-22	CAJVNS01	459
+ASM207242v1	GCA_002072425.1		Penicillium nalgiovense		IBT 13039					Annotation submitted by Chalmers University of Technology	32980092	Scaffold	2017-03-24	MOOB01	1954
+Pnal_ESE00260	GCA_911174895.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31236137	Scaffold	2022-09-22	CAJVOF01	628
+Pnal_ESE00258	GCA_911174845.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31097831	Scaffold	2022-09-22	CAJVOE01	619
+Pnal_LCP05232	GCA_911639135.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31334022	Scaffold	2022-07-01	CAJVRF01	624
+Pnal_DTO334-C1	GCA_911175015.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31418979	Scaffold	2022-09-22	CAJVNT01	612
+Pnal_DTO334-B7	GCA_911175025.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31350291	Scaffold	2022-09-22	CAJVOK01	620
+Pnal_ESE00254	GCA_911175245.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31381282	Scaffold	2022-09-22	CAJVNU01	618
+Pnal_ESE00263	GCA_911175185.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31809620	Scaffold	2022-09-22	CAJVOG01	663
+Pnal_DTO259-D5	GCA_911174985.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31583907	Scaffold	2022-09-22	CAJVOJ01	653
+Pnal_ESE00256	GCA_911175325.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31226533	Scaffold	2022-09-22	CAJVNV01	647
+Pnal_ESE00259	GCA_911174975.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31359185	Scaffold	2022-09-22	CAJVNZ01	647
+Pnal_DTO335-D4	GCA_911174865.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31406501	Scaffold	2022-09-22	CAJVOB01	633
+Pnal_DTO053-A9	GCA_911175295.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31172980	Scaffold	2022-09-22	CAJVOT01	622
+Pnal_ESE00255	GCA_911175155.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31057889	Scaffold	2022-09-22	CAJVOL01	645
+Pnal_CBS297.97	GCA_911175315.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31313954	Scaffold	2022-09-22	CAJVNY01	650
+Pnal_ESE00261	GCA_911175145.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31120043	Scaffold	2022-09-22	CAJVOV01	627
+Pnal_CBS318.92	GCA_911175225.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31474098	Scaffold	2022-09-22	CAJVON01	674
+Pnal_ESE00268	GCA_911175035.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31585821	Scaffold	2022-09-22	CAJVOD01	735
+Pnal_ESE00267	GCA_911175165.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	30918143	Scaffold	2022-09-22	CAJVNR01	692
+Pnal_CBS112438	GCA_911174885.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	31608114	Scaffold	2022-09-22	CAJVNN01	719
+Pnal_ESE00262	GCA_911175235.1		Penicillium nalgiovense							Annotation submitted by University Paris-Sud	29365678	Scaffold	2022-09-22	CAJVOX01	2542
+ASM2882722v1	GCA_028827225.1		Penicillium sp. CMV-2018d		IBT 12396					Annotation submitted by Aalborg University	32244276	Contig	2023-02-23	JAPZBW01	7
+ASM2882777v1	GCA_028827775.1		Penicillium malachiteum		IBT 13176					Annotation submitted by Aalborg University	34863708	Contig	2023-02-23	JAQJAM01	8
+ASM5281463v1	GCA_052814635.1		Penicillium sp. PQxj3		PQxj3						37454497	Contig	2025-09-24	JBQSTR01	10
+ASM2897401v1	GCA_028974015.1		Penicillium cf. griseofulvum		IBT 16849					Annotation submitted by Aalborg University	29823847	Contig	2023-02-23	JAPQKP01	8
+ASM3071032v1	GCA_030710325.1		Penicillium sp. 91 TS-2023		91 TS-2023						35300634	Contig	2023-08-11	JARWGP01	23
+ASM2882886v1	GCA_028828865.1		Penicillium sp. IBT 16267x		IBT 16267x					Annotation submitted by Aalborg University	33465021	Contig	2023-02-23	JAQJZQ01	12
+ASM2882675v1	GCA_028826755.1		Penicillium angulare		IBT 30069					Annotation submitted by Aalborg University	38603916	Contig	2023-02-23	JAPQKH01	12
+ASM2882787v1	GCA_028827875.1		Penicillium longicatenatum		IBT 33191					Annotation submitted by Aalborg University	32311308	Contig	2023-02-23	JAQJAI01	9
+ASM2882753v1	GCA_028827535.1		Penicillium sp. DV-2018c		IBT 19332					Annotation submitted by Aalborg University	25359523	Contig	2023-02-23	JAQJAA01	6
+ASM2882742v1	GCA_028827425.1		Penicillium sp. DV-2018c		IBT 6001					Annotation submitted by Aalborg University	25327983	Contig	2023-02-23	JAQJAB01	9
+ASM2897404v1	GCA_028974045.1		Penicillium cf. viridicatum		IBT 20477					Annotation submitted by Aalborg University	35226502	Contig	2023-02-23	JAPQKQ01	10
+ASM2882786v1	GCA_028827865.1		Penicillium frequentans		IBT 35679					Annotation submitted by Aalborg University	36177675	Contig	2023-02-23	JAQIZZ01	11
+NB22_v1	GCA_029142805.1		Penicillium sp. WT45		WT45						28758677	Contig	2023-03-10	JARFLS01	8
+NB21_v1	GCA_029142755.1		Penicillium sp. MT45		MT45						28661144	Contig	2023-03-10	JARFLT01	7
+NB24_v1	GCA_029142745.1		Penicillium sp. BM32		BM32						28722057	Contig	2023-03-10	JARFLR01	9
+ASM2882788v1	GCA_028827885.1		Penicillium sp. IBT 31633x		IBT 31633x					Annotation submitted by Aalborg University	30347723	Contig	2023-02-23	JAPWDP01	9
+ASM2882699v1	GCA_028826995.1		Penicillium cf. griseofulvum		IBT 16848					Annotation submitted by Aalborg University	29797777	Contig	2023-02-23	JAPZBX01	10
+ASM2882889v1	GCA_028828895.1		Penicillium sp. IBT 35674x		IBT 35674x					Annotation submitted by Aalborg University	37375558	Contig	2023-02-23	JAQKAT01	12
+ASM2882676v1	GCA_028826765.1		Penicillium atrosanguineum		IBT 34669					Annotation submitted by Aalborg University	30509980	Contig	2023-02-23	JAPQKK01	10
+ASM2882700v1	GCA_028827005.1		Penicillium atrosanguineum		IBT 21472					Annotation submitted by Aalborg University	30880235	Contig	2023-02-23	JAPZBO01	10
+ASM2882723v1	GCA_028827235.1		Penicillium cf. griseofulvum		IBT 17755					Annotation submitted by Aalborg University	29442304	Contig	2023-02-23	JAPZBY01	12
+ASM2882678v1	GCA_028826785.1		Penicillium atrosanguineum		IBT 31632					Annotation submitted by Aalborg University	30046757	Contig	2023-02-23	JAPQKJ01	16
+ASM2882893v1	GCA_028828935.1		Penicillium sp. IBT 18751x		IBT 18751x					Annotation submitted by Aalborg University	30736580	Contig	2023-02-23	JAQJZS01	15
+ASM380048v2	GCA_003800485.2		Penicillium sp. SPG-F15		SPG-F15						36414411	Contig	2023-04-26	PUHX02	78
+ASM4946301v1	GCA_049463015.1		Penicillium sp. GS218		GS218						27767911	Contig	2025-04-10	JBMSUT01	34
+NIH_D9_1.1	GCA_037356155.1		Penicillium sp. D9		D9						35073033	Contig	2024-03-19	JAYXSE01	55
+ASM1313803v1	GCA_013138035.1		Penicillium sp. str. #12		#12					Annotation submitted by None	37990757	Contig	2020-05-21	JAASRZ01	50
+ASM2882898v1	GCA_028828985.1		Penicillium chermesinum		IBT 22717					Annotation submitted by Aalborg University	27552694	Contig	2023-02-23	JAQJZV01	17
+NIH_F51_1.1	GCA_037356495.1		Penicillium sp. F51		F51						32984314	Contig	2024-03-19	JAYXSB01	78
+NIH_F50_1.1	GCA_037356195.1		Penicillium sp. F50		F50						33024260	Scaffold	2024-03-19	JAYXSA01	83
+ASM3671207v1	GCA_036712075.1		Penicillium sp. DT28		DT28						23419689	Scaffold	2024-02-20	JAZHLO01	9
+NIH_C7_1.1	GCA_037356175.1		Penicillium sp. C7(2024)		C7(2024)						32299038	Contig	2024-03-19	JAYXSD01	163
+ASM4766351v1	GCA_047663515.1		Penicillium sp. INA 01369		INA 01369						33708980	Scaffold	2025-02-11	JBLKNV01	89
+ASM3707490v1	GCA_037074905.1		Penicillium sp. MYA5		MYA5						32800485	Contig	2024-03-08	JAYRCP01	26
+ASM2882833v1	GCA_028828335.1		Penicillium malachiteum		IBT 17514					Annotation submitted by Aalborg University	34028674	Contig	2023-02-23	JAQJAN01	24
+ASM2882856v1	GCA_028828565.1		Penicillium verhagenii		IBT 33313					Annotation submitted by Aalborg University	31056496	Contig	2023-02-23	JAQKAN01	27
+ASM380049v2	GCA_003800495.2		Penicillium sp. SPG-F1		SPG-F1						32629321	Contig	2023-04-26	PUXE02	128
+ASM1841017v1	GCA_018410175.1		Penicillium corylophilum		F5_1S_1B_F						28231333	Scaffold	2021-05-19	JAGUQK01	53
+ASM2756959v1	GCA_027569595.1		Penicillium sp. G339		G339						32620809	Contig	2023-01-04	JAPDFJ01	93
+ASM1977546v1	GCA_019775465.1		Penicillium sp. VS I D KN 3		VS I D KN 3						35127538	Scaffold	2021-08-26	JACWFS01	452
+Psal_LCP06525	GCA_911456365.1		Penicillium salamii							Annotation submitted by University Paris-Sud	37000735	Contig	2022-09-22	CAJVRA01	99
+ASM207240v1	GCA_002072405.1		Penicillium coprophilum		IBT 31321					Annotation submitted by Chalmers University of Technology	28360408	Scaffold	2017-03-24	MDDG01	91
+NIH_F2_1.1	GCA_037414295.1		Penicillium sp. F2(2024)		F2(2024)						32922503	Contig	2024-03-19	JAYXSC01	219
+Psal_LCP06521	GCA_911197325.1		Penicillium salamii							Annotation submitted by University Paris-Sud	36245078	Scaffold	2022-09-22	CAJVPC01	410
+ASM2756989v1	GCA_027569895.1		Penicillium sp. G342		G342						26531990	Contig	2023-01-04	JAPDLA01	124
+ASM2362635v1	GCA_023626355.1		Penicillium sp. S1602		S1701						33728083	Scaffold	2022-06-01	JAMAGW01	478
+Psal_CBS135394	GCA_911174905.1		Penicillium salamii							Annotation submitted by University Paris-Sud	34782843	Scaffold	2022-09-22	CAJVOC01	337
+Psal_CBS135392	GCA_911175275.1		Penicillium salamii							Annotation submitted by University Paris-Sud	36168087	Scaffold	2022-09-22	CAJVOO01	414
+ASM1977541v1	GCA_019775415.1		Penicillium sp. VS I D KN		VS I D KN						35174464	Scaffold	2021-08-26	JACWFT01	432
+ASM1558597v1	GCA_015585975.1		Penicillium dipodomyicola		IF7SW-F3						34047919	Scaffold	2020-11-18	JACSOY01	1372
+ASM2281366v1	GCA_022813665.1		Penicillium sumatraense		FJI-L10-BK-P2						34882906	Scaffold	2022-04-04	JAKLLZ01	339
+ASM1558576v1	GCA_015585765.1		Penicillium dipodomyicola		IIF7SW-F4						32057306	Scaffold	2020-11-18	JACSOQ01	455
+ASM2281364v1	GCA_022813645.1		Penicillium sumatraense		FJI-L3-BK-DG1						34674451	Scaffold	2022-04-04	JAKLMA01	326
+ASM1977527v1	GCA_019775275.1		Penicillium sp. VS AB III KN		VS AB III KN						24864245	Scaffold	2021-08-26	JACWGB01	296
+ASM2362641v1	GCA_023626415.1		Penicillium sp. S1701		PF2412A						35144504	Scaffold	2022-06-01	JAMAGY01	226
+ASM1977530v1	GCA_019775305.1		Penicillium sp. VS AB III KN 1		VS AB III KN 1						24854136	Scaffold	2021-08-26	JACWGC01	312
+ASM1982747v1	GCA_019827475.1		Penicillium cf. chrysogenum		S/N-308-OC-P1						68790985	Scaffold	2021-08-31	JACVQR01	893
+ASM2362643v1	GCA_023626435.1		Penicillium sp. M1327		PF1803						27695660	Scaffold	2022-06-01	JAMAGX01	309
+Psal_CBS135401	GCA_911639275.1		Penicillium salamii							Annotation submitted by University Paris-Sud	34980374	Scaffold	2022-07-01	CAJVRH01	1042
+ASM3077944v1	GCA_030779445.1		Penicillium sp. MBC 424		MBC 424						28473004	Contig	2023-08-17	JAPFSX01	574
+ASM1558586v1	GCA_015585865.1		Penicillium griseoroseum		IIF4SW-F4						31587083	Scaffold	2020-11-18	JACSOT01	348
+ASM3704213v1	GCA_037042135.1		Penicillium sp. PG113-03A		PG113-03A						22673652	Scaffold	2024-03-06	JAXQJW01	167
+ASM3704171v1	GCA_037041715.1		Penicillium sumatraense		R121-14B						33127552	Contig	2024-03-06	JAXQIZ01	189
+ASM1558588v1	GCA_015585885.1		Penicillium griseoroseum		IF7SW-F5						31568288	Scaffold	2020-11-18	JACSOW01	361
+ASM2028406v1	GCA_020284065.1		Penicillium cf. chrysogenum		S/N-308-OC-R5						31681686	Scaffold	2021-10-05	JAILXA01	452
+Psal_CBS135391	GCA_911175135.1		Penicillium salamii							Annotation submitted by University Paris-Sud	34385921	Scaffold	2022-09-22	CAJVOR01	511
+ASM3704205v1	GCA_037042055.1		Penicillium sp. S103-07		S103-07						29774733	Scaffold	2024-03-06	JAXQJQ01	516
+ASM4033337v2	GCA_040333375.2		Penicillium brefeldianum		F015						32621465	Scaffold	2024-11-01	JBEBNM02	39
+Psal_CBS135407	GCA_911197295.1		Penicillium salamii							Annotation submitted by University Paris-Sud	34748438	Scaffold	2022-09-22	CAJVPF01	404
+ASM2756949v1	GCA_027569495.1		Penicillium vulpinum		NRRL 1001						31389357	Contig	2023-01-04	JAPDFE01	233
+ASM2362740v1	GCA_023627405.1		Penicillium sp. S1316		R2504						41245004	Scaffold	2022-06-01	JAMAHF01	701
+Psal_CBS135399	GCA_911175095.1		Penicillium salamii							Annotation submitted by University Paris-Sud	34529233	Scaffold	2022-09-22	CAJVOP01	382
+Psal_DTO198-E3	GCA_911197205.1		Penicillium salamii							Annotation submitted by University Paris-Sud	30529291	Scaffold	2022-09-22	CAJVPB01	205
+Psal_DTO334-B6	GCA_911197365.1		Penicillium salamii							Annotation submitted by University Paris-Sud	30376733	Scaffold	2022-09-22	CAJVOZ01	157
+Psal_CCFL5	GCA_911197195.1		Penicillium salamii							Annotation submitted by University Paris-Sud	32202828	Scaffold	2022-09-22	CAJVPE01	302
+Psal_CCFL11ab2.1	GCA_911197175.1		Penicillium salamii							Annotation submitted by University Paris-Sud	31552640	Scaffold	2022-09-22	CAJVPA01	261
+Psal_CBS135397	GCA_911174925.1		Penicillium salamii							Annotation submitted by University Paris-Sud	33059587	Scaffold	2022-09-22	CAJVOI01	279
+ASM207234v1	GCA_002072345.1		Penicillium antarcticum		IBT 31811					Annotation submitted by Chalmers University of Technology	31454985	Scaffold	2017-03-24	MDYN01	700
+Psal_DTO032-F3	GCA_911197305.1		Penicillium salamii							Annotation submitted by University Paris-Sud	30836126	Scaffold	2022-09-22	CAJVPD01	304
+Psal_CBS135396	GCA_911174965.1		Penicillium salamii							Annotation submitted by University Paris-Sud	33039670	Scaffold	2022-09-22	CAJVNW01	301
+ASM3077928v1	GCA_030779285.1		Penicillium sp. MBC 428		MBC 428						28053325	Contig	2023-08-17	JAPFSY01	374
+ASM1175069v1	GCA_011750695.1		Penicillium sp. OUCMDZ-019		OUCMDZ-019						31451881	Scaffold	2020-03-25	WTTZ01	580
+ASM2362649v1	GCA_023626495.1		Penicillium sp. PT4103		D2Mb						29949327	Scaffold	2022-06-01	JAMAHB01	401
+Psal_CBS135403	GCA_911197385.1		Penicillium salamii							Annotation submitted by University Paris-Sud	31684316	Scaffold	2022-09-22	CAJVPH01	415
+Psal_CBS135395	GCA_911175075.1		Penicillium salamii							Annotation submitted by University Paris-Sud	31711110	Scaffold	2022-09-22	CAJVNX01	385
+Psal_LCP06523	GCA_911197245.1		Penicillium salamii							Annotation submitted by University Paris-Sud	36234877	Scaffold	2022-09-22	CAJVPG01	477
+Psal_CBS135400	GCA_911175285.1		Penicillium salamii							Annotation submitted by University Paris-Sud	34399282	Scaffold	2022-09-22	CAJVOU01	417
+ASM207225v1	GCA_002072255.1		Penicillium vulpinum		IBT 29486					Annotation submitted by Chalmers University of Technology	31032801	Scaffold	2017-03-24	MDYP01	659
+Psal_LCP06522	GCA_911197405.1		Penicillium salamii							Annotation submitted by University Paris-Sud	36247989	Scaffold	2022-09-22	CAJVQD01	711
+Psal_CBS135393	GCA_911175105.1		Penicillium salamii							Annotation submitted by University Paris-Sud	33764403	Scaffold	2022-09-22	CAJVOQ01	557
+ASM207237v1	GCA_002072375.1		Penicillium steckii		IBT 24891					Annotation submitted by Chalmers University of Technology	32109558	Scaffold	2017-03-24	MLKD01	84
+ASM1980456v1	GCA_019804565.1		Penicillium robsamsonii		VS III D KN3.2						35080806	Scaffold	2021-08-30	JAETFV01	875
+ASM1918925v1	GCA_019189255.1		Penicillium palitans		F8_6S-4F						36605405	Scaffold	2021-07-09	JAHAOX01	827
+ASM1919105v1	GCA_019191055.1		Penicillium palitans		F6_4S_1A_F						36471070	Scaffold	2021-07-09	JAHARM01	798
+ASM1918928v1	GCA_019189285.1		Penicillium palitans		F8_6S-3F						36607893	Scaffold	2021-07-09	JAHAOY01	799
+ASM2362653v1	GCA_023626535.1		Penicillium sp. S1126A		PH3801						30421393	Scaffold	2022-06-01	JAMAHD01	433
+ASM1918935v1	GCA_019189355.1		Penicillium palitans		F8_6S_5F						36607101	Scaffold	2021-07-09	JAHAPC01	808
+ASM1919048v1	GCA_019190485.1		Penicillium palitans		F6_7S_1A_F						36439435	Scaffold	2021-07-09	JAHAQR01	820
+ASM1919018v1	GCA_019190185.1		Penicillium palitans		F6_8S_1A_F						36453009	Scaffold	2021-07-09	JAHAQI01	828
+ASM5357302v1	GCA_053573025.1		Penicillium freii		MS0197						35298783	Contig	2025-11-21	JBNLJD01	563
+ASM1919104v1	GCA_019191045.1		Penicillium palitans		F6_4S_1C_F						36477181	Scaffold	2021-07-09	JAHARK01	802
+ASM1918936v1	GCA_019189365.1		Penicillium palitans		F8_6S_2F						36503579	Scaffold	2021-07-09	JAHAPD01	943
+ASM1919016v1	GCA_019190165.1		Penicillium palitans		F6_8S_1C_F						36588697	Scaffold	2021-07-09	JAHAQH01	850
+ASM1919072v1	GCA_019190725.1		Penicillium palitans		F6_6S_1_F						36467611	Scaffold	2021-07-09	JAHARA01	808
+ASM1919103v1	GCA_019191035.1		Penicillium palitans		F6_4S_1B_F						36468364	Scaffold	2021-07-09	JAHARL01	806
+ASM1918926v1	GCA_019189265.1		Penicillium palitans		F8_6S-1F						36400448	Scaffold	2021-07-09	JAHAOZ01	987
+ASM385285v1	GCA_003852855.1		Penicillium sp. MT2 MMC-2018		MT2 MMC-2018						33839364	Contig	2018-11-30	PZKB01	529
+ASM1982879v1	GCA_019828795.1		Penicillium cf. chrysogenum		S/N-302-OC-P1						31386915	Scaffold	2021-08-31	JACVQW01	637
+ASM2362651v1	GCA_023626515.1		Penicillium sp. R1202D		S1126A						30951873	Scaffold	2022-06-01	JAMAHC01	364
+ASM2576811v1	GCA_025768115.1		Penicillium sp. D2Mb		R2202						30505107	Scaffold	2022-10-20	JAMFOT01	287
+Penicillium_viridicatum_XA_v2	GCA_902713535.1		Penicillium viridicatum					XA		Annotation submitted by UNIVERSITY OF TURIN	31758349	Scaffold	2025-02-20	CACTIR02	729
+ASM2362655v1	GCA_023626555.1		Penicillium sp. PF2412A		R1202D						31141126	Scaffold	2022-06-01	JAMAHA01	570
+ASM313804v1	GCA_003138045.1		Penicillium sp. MA 6036		MA 6036						33375507	Contig	2018-05-18	QAGG01	1208
+Penicillium_manginii_YELL_v2	GCA_902713545.1		Penicillium manginii					YELL		Annotation submitted by UNIVERSITY OF TURIN	36757734	Scaffold	2025-02-20	CACTIQ02	798
+ASM2362657v1	GCA_023626575.1		Penicillium sp. PF1803		PT4103						40239996	Scaffold	2022-06-01	JAMAGZ01	1741
+ASM893194v1	GCA_008931945.1		Penicillium sp. BW_162_3FA		BW_162_3FA						36367533	Scaffold	2019-10-09	MUGJ01	1741
+ASM893193v1	GCA_008931935.1		Penicillium sp. BW_MB		BW_MB						31635141	Scaffold	2019-10-09	MUGH01	905
+ASM3704262v1	GCA_037042625.1		Penicillium sp. PG115-01		PG115-01						31322363	Scaffold	2024-03-06	JAXQKS01	1618
+ASM313802v1	GCA_003138025.1		Penicillium sp. MA 6040		MA 6040						32104534	Contig	2018-05-18	QAGI01	962
+ASM525074v2	GCA_005250745.2		Penicillium sp. CF01		CF01						29669991	Scaffold	2022-11-30	RFFF02	38
+ASM2281354v1	GCA_022813545.1		Penicillium caseifulvum		FJII-L4-SW-DR1						35656037	Scaffold	2022-04-04	JAKLMG01	1183
+ASM3704223v1	GCA_037042235.1		Penicillium freii		S90-01						35646826	Scaffold	2024-03-06	JAXQJZ01	1937
+ASM2362661v1	GCA_023626615.1		Penicillium sp. PH3801		S1316						30790414	Scaffold	2022-06-01	JAMAHE01	720
+Ppalitans_SP3_v2	GCA_902713495.1		Penicillium palitans					SP3		Annotation submitted by UNIVERSITY OF TURIN	35337038	Scaffold	2025-02-20	CACTIN02	1219
+ASM893192v1	GCA_008931925.1		Penicillium sp. BW_12		BW_12						35605011	Scaffold	2019-10-09	MUGI01	2019
+ASM3176147v1	GCA_031761475.1		Penicillium pancosmium					MUM 23.27			34824057	Scaffold	2023-09-20	JAVMSB01	766
+ASM127859v1	GCA_001278595.1		Penicillium nordicum		DAOMC 185683					Annotation submitted by Agriculture and Agri-Food Canada	30844022	Scaffold	2015-09-03	LHQQ01	996
+ASM3970213v1	GCA_039702135.1		Penicillium sp. 32 TS-2023		32 TS-2023						30237888	Contig	2024-05-20	JARWGO01	1046
+ASM1982743v1	GCA_019827435.1		Penicillium cf. chrysogenum		S/N-302-OC-R3						31292888	Scaffold	2021-08-31	JACVQT01	1063
+ASM151392v1	GCA_001513925.1		Penicillium freii		DAOM 242723					Annotation submitted by Agriculture and Agri-Food Canada	33546389	Scaffold	2016-01-13	LLXE01	1923
+UMS_E22	GCA_035048945.1		Penicillium sp. E22		E22						37475709	Scaffold	2024-01-03	JASJUN01	2688
+ASM291645v1	GCA_002916455.1		Penicillium sp. CF05		CF05						34938837	Scaffold	2018-02-05	PKQL01	2289
+ASM3704225v1	GCA_037042255.1		Penicillium sp. PG106-07D		PG106-07D						32269330	Scaffold	2024-03-06	JAXQJV01	3418
+ASM200037v1	GCA_002000375.1		Penicillium sp. HKF2					HKF2			31484772	Scaffold	2017-02-15	MUXA01	94
+ASM3704250v1	GCA_037042505.1		Penicillium sp. M121-12C		M121-12C						31126928	Scaffold	2024-03-06	JAXQKM01	8372
+ASM3704253v1	GCA_037042535.1		Penicillium sp. B98-03		B98-03						28184015	Scaffold	2024-03-06	JAXQKP01	10791
+ASM1982887v1	GCA_019828875.1		Penicillium cf. chrysogenum		S/N-302-OC-R1						15687375	Scaffold	2021-08-31	JACVQU01	8946
+PenChr_Nov2007	GCA_000226395.1	GCF_000226395.1	Penicillium rubens Wisconsin 54-1255		Wisconsin 54-1255					Annotation submitted by DSM Anti-Infectives, The Netherlands	32223735	Scaffold	2008-11-04		49
+PenChr_Nov2007	GCF_000226395.1	GCA_000226395.1	Penicillium rubens Wisconsin 54-1255		Wisconsin 54-1255					Annotation submitted by NCBI RefSeq	32223735	Scaffold	2008-11-04		49
+PdigPd1_v1	GCA_000315645.2	GCF_000315645.1	Penicillium digitatum Pd1		Pd1					Annotation submitted by Center for Genomic Regulation (CRG)	26053171	Scaffold	2012-12-03	AKCU01	53
+PdigPd1_v1	GCF_000315645.1	GCA_000315645.2	Penicillium digitatum Pd1		Pd1					Annotation submitted by Center for Genomic Regulation (CRG)	26053171	Scaffold	2012-11-28	AKCU01	53
+ASM3704409v1	GCA_037044095.1		Penicillium rubens		LH_A166						1845868	Contig	2024-03-06	JAWLTC01	488
+ASM207223v1	GCA_002072235.1	GCF_002072235.1	Penicillium solitum		IBT 29525					Annotation submitted by Chalmers University of Technology	33184895	Scaffold	2017-03-24	MDYO01	597
+ASM207223v1	GCF_002072235.1	GCA_002072235.1	Penicillium solitum		IBT 29525					Annotation submitted by Chalmers University of Technology	33184895	Scaffold	2017-03-24	MDYO01	597
+SRS-W-3	GCA_004959885.1		Penicillium sp. W3 MMC-2018		W3 MMC-2018						32212145	Contig	2019-04-30	PZKA01	1182
+SRR12395656_bin.4_CONCOCT_v1.1_MAG	GCA_937871595.1		Penicillium arizonense								25453748	Contig	2023-01-12	CALMQH01	3029
