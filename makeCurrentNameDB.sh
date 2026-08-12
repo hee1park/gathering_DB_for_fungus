@@ -1,9 +1,10 @@
+# select names which are currently in 'GENUS' and make a tsv file with them
+## input: mycobank.tsv: copy all the mycobank simple search result of the genus you want and save as a tsv file 
 # select only 'Legitimate' names and sort column 2 (current name) to get unique names
 grep -w 'Legitimate' ./mycobank.tsv | awk -F'\t' '{print $2}' | sort | uniq > ./uniq.txt
-# select names which are currently in genus 'Geotrichum' and make a tsv file with them
 
-######### change the genus name! #########
-grep -w '^Graphium' ./uniq.txt | awk '{print $1 "\t" $2 "\t" $3 "\t" $4}' > ./species_name.tsv
+######### change the GENUS name! #########
+grep -w '^GENUS' ./uniq.txt | awk '{print $1 "\t" $2 "\t" $3 "\t" $4}' > ./species_name.tsv
 
 #count and show the number of lines
 echo 'species number'
